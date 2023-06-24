@@ -1363,164 +1363,167 @@
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/cba6e489-4368-49d4-a1e2-b8721158666e"
       (reference "S14") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/60bb400f-b71b-46e0-9024-c549ededef65"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/59e84015-472e-4d3e-96b4-f680452df293"
       (reference "S15") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/fee14620-2445-4560-8b79-89ef428bdc6e"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/60bb400f-b71b-46e0-9024-c549ededef65"
       (reference "S16") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/4a47dc4c-a542-431e-9a90-0d5abf99b0b1"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/fee14620-2445-4560-8b79-89ef428bdc6e"
       (reference "S17") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/bfa98813-2818-4196-956f-dfecae3dd64b"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/4a47dc4c-a542-431e-9a90-0d5abf99b0b1"
       (reference "S18") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/4b0fc805-da1e-4776-8f16-566d795e2fdc"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/bfa98813-2818-4196-956f-dfecae3dd64b"
       (reference "S19") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/3717e0b8-b33a-4527-a3f9-f5f7847492ac"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/4b0fc805-da1e-4776-8f16-566d795e2fdc"
       (reference "S20") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/70d0d23d-21fb-45d9-93cc-e99c69d7bb76"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/3717e0b8-b33a-4527-a3f9-f5f7847492ac"
       (reference "S21") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/e4d7b99f-b838-47f4-b63a-1f61b21625a2"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/70d0d23d-21fb-45d9-93cc-e99c69d7bb76"
       (reference "S22") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/7ea4551b-4e0e-4b23-878d-4c0edb38a6fe"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/e4d7b99f-b838-47f4-b63a-1f61b21625a2"
       (reference "S23") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/f10e7578-cb23-483f-9758-7793c8aff205"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/7ea4551b-4e0e-4b23-878d-4c0edb38a6fe"
       (reference "S24") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/d3f97b19-be4a-4ee9-ac8c-44a5f35d2875"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/f10e7578-cb23-483f-9758-7793c8aff205"
       (reference "S25") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/7b2eeb11-7a36-4087-86f3-561bf4616d60"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/d3f97b19-be4a-4ee9-ac8c-44a5f35d2875"
       (reference "S26") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/0eb1691f-e1a0-4e6b-b27f-0cd378fd0631"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/7b2eeb11-7a36-4087-86f3-561bf4616d60"
       (reference "S27") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/55bb0b47-bcc4-4027-b4ed-391e428f9e0d"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/0eb1691f-e1a0-4e6b-b27f-0cd378fd0631"
       (reference "S28") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/eb0467aa-3124-4a1d-845e-893705a26036"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/55bb0b47-bcc4-4027-b4ed-391e428f9e0d"
       (reference "S29") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/8cb69221-14ad-453b-826a-800b88e0ce0e"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/eb0467aa-3124-4a1d-845e-893705a26036"
       (reference "S30") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/817d8fdb-ef8f-460a-84b5-1759aeee3b07"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/8cb69221-14ad-453b-826a-800b88e0ce0e"
       (reference "S31") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/9468ea40-d04f-4507-8562-2116c31d0712"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/817d8fdb-ef8f-460a-84b5-1759aeee3b07"
       (reference "S32") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/dd6a3617-e6d0-4ad0-b01e-f89d6f952cba"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/9468ea40-d04f-4507-8562-2116c31d0712"
       (reference "S33") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/3332baaa-0ffd-43a8-a2f0-fe57d6147876"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/dd6a3617-e6d0-4ad0-b01e-f89d6f952cba"
       (reference "S34") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/fc27f086-042c-4ebc-8aa3-d9e705f47256"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/3332baaa-0ffd-43a8-a2f0-fe57d6147876"
       (reference "S35") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/b9f10ed1-300c-46b6-8b93-c73a6207d236"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/fc27f086-042c-4ebc-8aa3-d9e705f47256"
       (reference "S36") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/9b2f223e-777a-47cf-b364-c64ddc189014"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/b9f10ed1-300c-46b6-8b93-c73a6207d236"
       (reference "S37") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/559a97b5-d3eb-4b37-9675-9aac74d8d4c1"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/9b2f223e-777a-47cf-b364-c64ddc189014"
       (reference "S38") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/80e8069d-6e08-4d09-8519-5f6f7cce0569"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/559a97b5-d3eb-4b37-9675-9aac74d8d4c1"
       (reference "S39") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/11020f53-8e6b-48fc-ae4a-c26c94580b7f"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/80e8069d-6e08-4d09-8519-5f6f7cce0569"
       (reference "S40") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/fb497f9f-7830-4bd2-af4e-afdb3592f91c"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/11020f53-8e6b-48fc-ae4a-c26c94580b7f"
       (reference "S41") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/1525744a-35c6-4ceb-939b-bf0b7acff9eb"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/fb497f9f-7830-4bd2-af4e-afdb3592f91c"
       (reference "S42") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/532250bd-376b-4de6-88fc-c37843747b52"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/1525744a-35c6-4ceb-939b-bf0b7acff9eb"
       (reference "S43") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/37ed5fd8-2ba6-4156-88e2-e11d0f4b4a8d"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/532250bd-376b-4de6-88fc-c37843747b52"
       (reference "S44") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/30b84f41-745a-4259-8d7c-f0b9f2aa952b"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/37ed5fd8-2ba6-4156-88e2-e11d0f4b4a8d"
       (reference "S45") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/3cb5abaa-4697-4399-8c0f-26e4437abf22"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/30b84f41-745a-4259-8d7c-f0b9f2aa952b"
       (reference "S46") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/8710d385-128c-4673-9c2c-236c7743a5a8"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/3cb5abaa-4697-4399-8c0f-26e4437abf22"
       (reference "S47") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/ceecf3c4-6d5b-4a9e-a032-35c674719d03"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/8710d385-128c-4673-9c2c-236c7743a5a8"
       (reference "S48") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/7b11ef01-aead-45ec-8504-c36cfe120555"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/ceecf3c4-6d5b-4a9e-a032-35c674719d03"
       (reference "S49") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/c87431a3-e237-4147-8712-b9acdd4382d5"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/7b11ef01-aead-45ec-8504-c36cfe120555"
       (reference "S50") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/037d7019-bced-4a23-9a50-e1383985e420"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/c87431a3-e237-4147-8712-b9acdd4382d5"
       (reference "S51") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/4d1cc22f-3d37-4185-b883-a65c3b0dd332"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/037d7019-bced-4a23-9a50-e1383985e420"
       (reference "S52") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/706e3c82-6113-4cde-ab50-bfcf482f37ed"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/4d1cc22f-3d37-4185-b883-a65c3b0dd332"
       (reference "S53") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/c168385e-f2a2-4e66-9f2f-e07d8b5d68df"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/706e3c82-6113-4cde-ab50-bfcf482f37ed"
       (reference "S54") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/bb80bbbd-b247-4527-8e0f-2149ebccba4f"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/c168385e-f2a2-4e66-9f2f-e07d8b5d68df"
       (reference "S55") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/182fac5e-467a-4ebd-aa3e-7aa3377e0d0c"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/bb80bbbd-b247-4527-8e0f-2149ebccba4f"
       (reference "S56") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/9868b5cb-02c3-45a2-9a38-e11f27848417"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/182fac5e-467a-4ebd-aa3e-7aa3377e0d0c"
       (reference "S57") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/cfd06bd5-7be5-4a2b-9f11-6f0d34556747"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/9868b5cb-02c3-45a2-9a38-e11f27848417"
       (reference "S58") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/abd02928-840f-4ad8-9bf1-9fb33f002230"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/cfd06bd5-7be5-4a2b-9f11-6f0d34556747"
       (reference "S59") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/3330fa5c-dc4a-45e0-bb07-4444aca66dab"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/abd02928-840f-4ad8-9bf1-9fb33f002230"
       (reference "S60") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/6a99825f-b08d-4cf8-91c4-7ad2df56edc7"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/3330fa5c-dc4a-45e0-bb07-4444aca66dab"
       (reference "S61") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/384350aa-e230-473c-a85d-3f31684b7ea4"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/6a99825f-b08d-4cf8-91c4-7ad2df56edc7"
       (reference "S62") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/5b9aad3d-f958-4bca-8dd8-ddd6f2ee5761"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/384350aa-e230-473c-a85d-3f31684b7ea4"
       (reference "S63") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/3b8d2075-9314-4004-9f10-53de83baa80e"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/5b9aad3d-f958-4bca-8dd8-ddd6f2ee5761"
       (reference "S64") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/f2bda2d7-df42-4f04-9cb9-915217222714"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/3b8d2075-9314-4004-9f10-53de83baa80e"
       (reference "S65") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/7224e4a4-a199-4b96-935b-ba39842040f4"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/f2bda2d7-df42-4f04-9cb9-915217222714"
       (reference "S66") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
-    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/4becd404-bdae-4953-88fc-ca71fbaca0ae"
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/7224e4a4-a199-4b96-935b-ba39842040f4"
       (reference "S67") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
+    )
+    (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/4becd404-bdae-4953-88fc-ca71fbaca0ae"
+      (reference "S68") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/f35fb016-4f36-4ed4-9c3b-d02c67451e6c"
       (reference "SW1") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")

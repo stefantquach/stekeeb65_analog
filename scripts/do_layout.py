@@ -149,13 +149,17 @@ with open(app_filename) as app_file:
 with open(app_filename, "w") as app_file:
     # apply change to every line
     for key in key_line_dict:
-        position = position_dict[key]
+        # layout reference uses zero indexing. I didn't.
+        lekker_key_number = int(re.search(r"([0-9]+)", key).group(1))
+        lekker_key = "K_"+str(lekker_key_number-1)
+        position = position_dict[lekker_key]
+        
         lines[key_line_dict[key]] = "    (at %.4f %.4f)\n" % (position[0], position[1])
         hall_key = key.replace("SW", "U")
         lines[hall_line_dict[hall_key]] = "    (at %.4f %.4f 90)\n" % (position[0], position[1])
 
         if(key != "K_14"):
-            led_key = key.replace("K_", "S")
+            led_key = key.replace("SW", "S")
             lines[led_line_dict[led_key]] = "    (at %.4f %.4f)\n" % (position[0], position[1]-5.5)
 
 
