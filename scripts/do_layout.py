@@ -86,7 +86,7 @@ with open(app_filename) as app_file:
 
         # find the key
         elif state == 2:
-            key_search = re.search(key_regex, line)
+            key_search = re.search(lekker_regex, line)
             if key_search is not None and key_search.group(1) is not None:
                 key_line_dict[key_search.group(1)] = save_line
                 
@@ -143,6 +143,7 @@ with open(app_filename) as app_file:
     print("\n") 
     print(key_line_dict)
     print(led_line_dict)
+    print(hall_line_dict)
 
 # Apply changes
 with open(app_filename, "w") as app_file:
@@ -150,7 +151,7 @@ with open(app_filename, "w") as app_file:
     for key in key_line_dict:
         position = position_dict[key]
         lines[key_line_dict[key]] = "    (at %.4f %.4f)\n" % (position[0], position[1])
-        hall_key = key.replace("K", "D")
+        hall_key = key.replace("SW", "U")
         lines[hall_line_dict[hall_key]] = "    (at %.4f %.4f 90)\n" % (position[0], position[1])
 
         if(key != "K_14"):

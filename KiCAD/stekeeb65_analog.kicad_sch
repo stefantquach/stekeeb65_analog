@@ -916,6 +916,12 @@
     (path "/8628b39a-a9ad-4ff5-81e6-95e0da2000cf/ef195ea8-1829-4f62-ac90-f773f18efc93"
       (reference "#PWR0273") (unit 1) (value "GND") (footprint "")
     )
+    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/178ee27f-a414-46a2-9793-d99daaa1cc0f"
+      (reference "B1") (unit 1) (value "SW_Push") (footprint "random_parts:SKQG-1155865")
+    )
+    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/c1f110f1-e177-424c-a828-16eec3a97490"
+      (reference "B2") (unit 1) (value "SW_Push") (footprint "random_parts:SKQG-1155865")
+    )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/4c60276f-7ab6-4936-9bc8-f6cecefdce93"
       (reference "C1") (unit 1) (value "0.1u") (footprint "")
     )
@@ -1720,14 +1726,8 @@
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/42fb8893-4af8-4b23-8962-e4c086082e31"
       (reference "SW68") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
-    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/178ee27f-a414-46a2-9793-d99daaa1cc0f"
-      (reference "SW69") (unit 1) (value "SW_Push") (footprint "random_parts:SKQG-1155865")
-    )
     (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/ed5923fd-518c-49af-9ef8-0a9dd7a37b5d"
-      (reference "SW70") (unit 1) (value "RotaryEncoder_Switch") (footprint "")
-    )
-    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/c1f110f1-e177-424c-a828-16eec3a97490"
-      (reference "SW71") (unit 1) (value "SW_Push") (footprint "random_parts:SKQG-1155865")
+      (reference "SW69") (unit 1) (value "RotaryEncoder_Switch") (footprint "")
     )
     (path "/edc1a6f8-b313-4a09-bc49-87244a79c408/207ccf87-598c-48c5-a883-71e8ec79b470"
       (reference "TP1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
