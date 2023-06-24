@@ -155,7 +155,7 @@ with open(app_filename, "w") as app_file:
 
         if(key != "K_14"):
             led_key = key.replace("K_", "S")
-            lines[led_line_dict[led_key]] = "    (at %.4f %.4f)\n" % (position[0], position[1]+5.5)
+            lines[led_line_dict[led_key]] = "    (at %.4f %.4f)\n" % (position[0], position[1]-5.5)
 
 
     app_file.writelines(lines)
