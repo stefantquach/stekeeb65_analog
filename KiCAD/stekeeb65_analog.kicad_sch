@@ -91,11 +91,11 @@
   )
 
   (symbol_instances
-    (path "/8628b39a-a9ad-4ff5-81e6-95e0da2000cf/16bd8639-ca34-4461-b6cb-eaa5a6c6fd96"
-      (reference "#FLG?") (unit 1) (value "PWR_FLAG") (footprint "")
-    )
     (path "/8628b39a-a9ad-4ff5-81e6-95e0da2000cf/b0507fc4-83cd-44f1-8a31-b8831b2967b0"
-      (reference "#FLG?") (unit 1) (value "PWR_FLAG") (footprint "")
+      (reference "#FLG01") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/8628b39a-a9ad-4ff5-81e6-95e0da2000cf/16bd8639-ca34-4461-b6cb-eaa5a6c6fd96"
+      (reference "#FLG02") (unit 1) (value "PWR_FLAG") (footprint "")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/c80bc934-6fb1-4baa-a25e-93565145f362"
       (reference "#PWR01") (unit 1) (value "+3.3VA") (footprint "")
@@ -709,14 +709,32 @@
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/211ab077-f9ab-43df-80d8-8413f2364898"
       (reference "#PWR0204") (unit 1) (value "GND") (footprint "")
     )
+    (path "/edc1a6f8-b313-4a09-bc49-87244a79c408/df8436a3-b45d-4dd8-b490-2ad69ab6e930"
+      (reference "#PWR0205") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/edc1a6f8-b313-4a09-bc49-87244a79c408/5dd25fba-d5e3-4e3d-b59c-217c697ff781"
+      (reference "#PWR0206") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/edc1a6f8-b313-4a09-bc49-87244a79c408/89126a22-c6d6-4905-ab1b-ee1608af0387"
+      (reference "#PWR0207") (unit 1) (value "+3.3V") (footprint "")
+    )
     (path "/edc1a6f8-b313-4a09-bc49-87244a79c408/5a0c9af7-8223-4fdb-bf94-d85fe994e79f"
       (reference "#PWR0208") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/edc1a6f8-b313-4a09-bc49-87244a79c408/de6966cf-820a-4774-b055-c3c1d6fb7b73"
+      (reference "#PWR0209") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/edc1a6f8-b313-4a09-bc49-87244a79c408/94f21bae-8ee2-4dc9-a028-1ad6151f1465"
+      (reference "#PWR0210") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/edc1a6f8-b313-4a09-bc49-87244a79c408/9c80c7a0-78a6-4de6-ab73-4636bcb2c227"
       (reference "#PWR0211") (unit 1) (value "GND") (footprint "")
     )
     (path "/edc1a6f8-b313-4a09-bc49-87244a79c408/bf46f854-35bf-489d-9714-66b04e5c5f08"
       (reference "#PWR0212") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/edc1a6f8-b313-4a09-bc49-87244a79c408/b0c7dd33-e244-46fb-99ac-b03897483a2e"
+      (reference "#PWR0213") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/edc1a6f8-b313-4a09-bc49-87244a79c408/b378ae7d-8632-4c49-b743-d164385ea8ab"
       (reference "#PWR0214") (unit 1) (value "GND") (footprint "")
@@ -735,6 +753,9 @@
     )
     (path "/edc1a6f8-b313-4a09-bc49-87244a79c408/91bf1c08-e6ed-49ca-9b37-63cd7ecddfe8"
       (reference "#PWR0219") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/edc1a6f8-b313-4a09-bc49-87244a79c408/8ed6a5ec-1d59-4adf-be08-91bc91868fdb"
+      (reference "#PWR0220") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/edc1a6f8-b313-4a09-bc49-87244a79c408/7980bb07-5109-4e8a-a631-1af04db7db29"
       (reference "#PWR0221") (unit 1) (value "GND") (footprint "")
@@ -757,14 +778,26 @@
     (path "/edc1a6f8-b313-4a09-bc49-87244a79c408/0e4df438-b78d-405f-be29-a94c22bb5094"
       (reference "#PWR0227") (unit 1) (value "GND") (footprint "")
     )
+    (path "/edc1a6f8-b313-4a09-bc49-87244a79c408/7083799c-164d-4d1a-9a32-49ed9e978783"
+      (reference "#PWR0228") (unit 1) (value "+3.3V") (footprint "")
+    )
     (path "/edc1a6f8-b313-4a09-bc49-87244a79c408/53aadbe3-b276-46f6-9349-4854d50bbf7f"
       (reference "#PWR0229") (unit 1) (value "GND") (footprint "")
     )
     (path "/edc1a6f8-b313-4a09-bc49-87244a79c408/61602167-c85e-41bb-94e8-ac7d22c2ab5c"
       (reference "#PWR0230") (unit 1) (value "GND") (footprint "")
     )
+    (path "/edc1a6f8-b313-4a09-bc49-87244a79c408/dbb07e1c-10a4-4eb2-9820-015d5cee819e"
+      (reference "#PWR0231") (unit 1) (value "+3.3V") (footprint "")
+    )
     (path "/edc1a6f8-b313-4a09-bc49-87244a79c408/767489cc-ca7e-4f82-aff9-4f981b37f444"
       (reference "#PWR0232") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/edc1a6f8-b313-4a09-bc49-87244a79c408/24cf2c02-0f6e-4b2a-abf3-61e62d556b8a"
+      (reference "#PWR0233") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/edc1a6f8-b313-4a09-bc49-87244a79c408/c2e7f9b7-4923-498b-8d68-8f8bb8c15952"
+      (reference "#PWR0234") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/edc1a6f8-b313-4a09-bc49-87244a79c408/c7faee3f-1def-4870-b0d2-b3f65964b3b6"
       (reference "#PWR0235") (unit 1) (value "GND") (footprint "")
@@ -793,128 +826,95 @@
     (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/0e308c63-bc5e-4351-b44f-20cb367cc737"
       (reference "#PWR0243") (unit 1) (value "GND") (footprint "")
     )
-    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/a4b2bb3a-dd4f-4e4d-b26a-321f57fbe197"
+    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/eac42ed9-9158-4d87-8af5-f8acef21fb9c"
       (reference "#PWR0244") (unit 1) (value "+3.3V") (footprint "")
     )
-    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/db58bd87-a3fe-4176-8e2d-dbe790682aee"
-      (reference "#PWR0245") (unit 1) (value "GND") (footprint "")
+    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/a4b2bb3a-dd4f-4e4d-b26a-321f57fbe197"
+      (reference "#PWR0245") (unit 1) (value "+3.3V") (footprint "")
     )
-    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/55966997-156f-4e65-8570-8b5fe2eba53e"
+    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/db58bd87-a3fe-4176-8e2d-dbe790682aee"
       (reference "#PWR0246") (unit 1) (value "GND") (footprint "")
     )
-    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/6b69bd89-18eb-4836-8072-90c95c15e8e3"
+    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/55966997-156f-4e65-8570-8b5fe2eba53e"
       (reference "#PWR0247") (unit 1) (value "GND") (footprint "")
     )
-    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/4e96b883-61ce-40da-bf1f-3896c30dfa9e"
+    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/6b69bd89-18eb-4836-8072-90c95c15e8e3"
       (reference "#PWR0248") (unit 1) (value "GND") (footprint "")
     )
-    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/6dd6bb0b-3f5d-415a-afde-1058231d41a5"
-      (reference "#PWR0249") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/98ad87de-719f-41df-9938-0da1c889d39c"
-      (reference "#PWR0250") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/9625c6f5-d3c6-4e08-8a22-b73fe100b01f"
-      (reference "#PWR0251") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/cd069cb8-8073-4403-bff1-4926508cf957"
-      (reference "#PWR0252") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/b421b4bc-1a8c-4b3d-80cd-79d07e5b7eb0"
-      (reference "#PWR0253") (unit 1) (value "GND") (footprint "")
+    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/1c35da77-ff55-4d02-b6d9-2cef85844ee8"
+      (reference "#PWR0249") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/071b6cee-2a5d-4428-88e2-5e2f53df6f25"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/0c19744d-26ae-4fa8-9162-ff2a3c63bd29"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/1c35da77-ff55-4d02-b6d9-2cef85844ee8"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/edc1a6f8-b313-4a09-bc49-87244a79c408/24cf2c02-0f6e-4b2a-abf3-61e62d556b8a"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/2b595731-d216-40cd-ada0-1fd51eafd86f"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/8628b39a-a9ad-4ff5-81e6-95e0da2000cf/38ac9609-efd0-4350-b836-e345d0a0735f"
-      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
-    )
-    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/3d1c4623-9e21-4f4a-b14e-0378d08afa84"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/8628b39a-a9ad-4ff5-81e6-95e0da2000cf/46f75674-08c6-4ece-bb65-83ff7cc93a98"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/49e4356a-e668-439d-8243-60ef60a2c908"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/edc1a6f8-b313-4a09-bc49-87244a79c408/5dd25fba-d5e3-4e3d-b59c-217c697ff781"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/8628b39a-a9ad-4ff5-81e6-95e0da2000cf/5eb20bb1-f7a9-436f-aaf8-9b975d28abc6"
-      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
-    )
-    (path "/8628b39a-a9ad-4ff5-81e6-95e0da2000cf/673b359f-8f13-4a4b-b94d-8f22d590aec3"
-      (reference "#PWR?") (unit 1) (value "+3.3VA") (footprint "")
-    )
-    (path "/8628b39a-a9ad-4ff5-81e6-95e0da2000cf/68cdc498-d168-4826-88f9-60d5d674bcf9"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/edc1a6f8-b313-4a09-bc49-87244a79c408/7083799c-164d-4d1a-9a32-49ed9e978783"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/7928ea7c-3fb2-4e66-a194-f511126edc0a"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/8628b39a-a9ad-4ff5-81e6-95e0da2000cf/8307e0bb-d167-4758-bdd7-c23285ba1d33"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/edc1a6f8-b313-4a09-bc49-87244a79c408/89126a22-c6d6-4905-ab1b-ee1608af0387"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/edc1a6f8-b313-4a09-bc49-87244a79c408/8ed6a5ec-1d59-4adf-be08-91bc91868fdb"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+      (reference "#PWR0250") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/9488acf8-856f-49be-8fa2-b7a07c5ba533"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+      (reference "#PWR0251") (unit 1) (value "+3.3V") (footprint "")
     )
-    (path "/edc1a6f8-b313-4a09-bc49-87244a79c408/94f21bae-8ee2-4dc9-a028-1ad6151f1465"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/3d1c4623-9e21-4f4a-b14e-0378d08afa84"
+      (reference "#PWR0252") (unit 1) (value "+3.3V") (footprint "")
     )
-    (path "/edc1a6f8-b313-4a09-bc49-87244a79c408/b0c7dd33-e244-46fb-99ac-b03897483a2e"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/4e96b883-61ce-40da-bf1f-3896c30dfa9e"
+      (reference "#PWR0253") (unit 1) (value "GND") (footprint "")
     )
-    (path "/edc1a6f8-b313-4a09-bc49-87244a79c408/c2e7f9b7-4923-498b-8d68-8f8bb8c15952"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/6dd6bb0b-3f5d-415a-afde-1058231d41a5"
+      (reference "#PWR0254") (unit 1) (value "GND") (footprint "")
     )
-    (path "/8628b39a-a9ad-4ff5-81e6-95e0da2000cf/d611545b-135d-43f4-954a-b30e9734fe1b"
-      (reference "#PWR?") (unit 1) (value "GNDPWR") (footprint "")
+    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/7928ea7c-3fb2-4e66-a194-f511126edc0a"
+      (reference "#PWR0255") (unit 1) (value "GND") (footprint "")
     )
-    (path "/edc1a6f8-b313-4a09-bc49-87244a79c408/dbb07e1c-10a4-4eb2-9820-015d5cee819e"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/0c19744d-26ae-4fa8-9162-ff2a3c63bd29"
+      (reference "#PWR0256") (unit 1) (value "GND") (footprint "")
     )
-    (path "/edc1a6f8-b313-4a09-bc49-87244a79c408/de6966cf-820a-4774-b055-c3c1d6fb7b73"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/2b595731-d216-40cd-ada0-1fd51eafd86f"
+      (reference "#PWR0257") (unit 1) (value "GND") (footprint "")
     )
-    (path "/edc1a6f8-b313-4a09-bc49-87244a79c408/df8436a3-b45d-4dd8-b490-2ad69ab6e930"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/98ad87de-719f-41df-9938-0da1c889d39c"
+      (reference "#PWR0258") (unit 1) (value "+3.3V") (footprint "")
     )
-    (path "/8628b39a-a9ad-4ff5-81e6-95e0da2000cf/e8c4abf4-ebdd-40fd-8adf-7c05c08e8fc9"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/49e4356a-e668-439d-8243-60ef60a2c908"
+      (reference "#PWR0259") (unit 1) (value "GND") (footprint "")
     )
-    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/eac42ed9-9158-4d87-8af5-f8acef21fb9c"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/9625c6f5-d3c6-4e08-8a22-b73fe100b01f"
+      (reference "#PWR0260") (unit 1) (value "GND") (footprint "")
     )
-    (path "/8628b39a-a9ad-4ff5-81e6-95e0da2000cf/ef195ea8-1829-4f62-ac90-f773f18efc93"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/cd069cb8-8073-4403-bff1-4926508cf957"
+      (reference "#PWR0261") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/b421b4bc-1a8c-4b3d-80cd-79d07e5b7eb0"
+      (reference "#PWR0262") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/8628b39a-a9ad-4ff5-81e6-95e0da2000cf/5eb20bb1-f7a9-436f-aaf8-9b975d28abc6"
+      (reference "#PWR0263") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/8628b39a-a9ad-4ff5-81e6-95e0da2000cf/673b359f-8f13-4a4b-b94d-8f22d590aec3"
+      (reference "#PWR0264") (unit 1) (value "+3.3VA") (footprint "")
     )
     (path "/8628b39a-a9ad-4ff5-81e6-95e0da2000cf/f8d32030-32b3-43a2-81bf-ebfe2d0bbb03"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+      (reference "#PWR0265") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/8628b39a-a9ad-4ff5-81e6-95e0da2000cf/38ac9609-efd0-4350-b836-e345d0a0735f"
+      (reference "#PWR0266") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/8628b39a-a9ad-4ff5-81e6-95e0da2000cf/d611545b-135d-43f4-954a-b30e9734fe1b"
+      (reference "#PWR0267") (unit 1) (value "GNDPWR") (footprint "")
+    )
+    (path "/8628b39a-a9ad-4ff5-81e6-95e0da2000cf/8307e0bb-d167-4758-bdd7-c23285ba1d33"
+      (reference "#PWR0268") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/8628b39a-a9ad-4ff5-81e6-95e0da2000cf/e8c4abf4-ebdd-40fd-8adf-7c05c08e8fc9"
+      (reference "#PWR0269") (unit 1) (value "GND") (footprint "")
     )
     (path "/8628b39a-a9ad-4ff5-81e6-95e0da2000cf/fdf88089-1079-4efa-bca3-bff67d42769b"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR0270") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/8628b39a-a9ad-4ff5-81e6-95e0da2000cf/46f75674-08c6-4ece-bb65-83ff7cc93a98"
+      (reference "#PWR0271") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/8628b39a-a9ad-4ff5-81e6-95e0da2000cf/68cdc498-d168-4826-88f9-60d5d674bcf9"
+      (reference "#PWR0272") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/8628b39a-a9ad-4ff5-81e6-95e0da2000cf/ef195ea8-1829-4f62-ac90-f773f18efc93"
+      (reference "#PWR0273") (unit 1) (value "GND") (footprint "")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/4c60276f-7ab6-4936-9bc8-f6cecefdce93"
       (reference "C1") (unit 1) (value "0.1u") (footprint "")
@@ -1204,11 +1204,11 @@
     (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/20b5b187-984b-4191-9d8e-82a7a60531dc"
       (reference "C96") (unit 1) (value "27p") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
-    (path "/8628b39a-a9ad-4ff5-81e6-95e0da2000cf/a907c795-d5b1-4397-a0cb-2bac57742310"
-      (reference "C?") (unit 1) (value "0.1u") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
-    )
     (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/f5164ce6-4723-47d9-ad00-576b3e6a7c7a"
-      (reference "C?") (unit 1) (value "0.1u") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+      (reference "C97") (unit 1) (value "0.1u") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/8628b39a-a9ad-4ff5-81e6-95e0da2000cf/a907c795-d5b1-4397-a0cb-2bac57742310"
+      (reference "C98") (unit 1) (value "0.1u") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/68b035cd-5d75-440c-b46d-33e4c320630a/6f092d5d-6948-4ce9-a325-df7168638e23"
       (reference "IC1") (unit 1) (value "ADS7953SBDBTR") (footprint "Package_SO:TSSOP-38_4.4x9.7mm_P0.5mm")
@@ -1229,10 +1229,10 @@
       (reference "IC6") (unit 1) (value "IS31FL3733B-TQLS4") (footprint "SamacSys_Parts:QFP50P900X900X120-49N")
     )
     (path "/8628b39a-a9ad-4ff5-81e6-95e0da2000cf/c5690e11-f923-424d-857e-9c14fc1df5d0"
-      (reference "J?") (unit 1) (value "Conn_01x04") (footprint "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal")
+      (reference "J1") (unit 1) (value "Conn_01x04") (footprint "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal")
     )
     (path "/8628b39a-a9ad-4ff5-81e6-95e0da2000cf/e9fecab3-58e0-4265-87ae-09482bbb768c"
-      (reference "J?") (unit 1) (value "Conn_01x03") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
+      (reference "J2") (unit 1) (value "Conn_01x03") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
     )
     (path "/edc1a6f8-b313-4a09-bc49-87244a79c408/8f2b0c53-3bb9-44f1-a667-81c0dfd46081"
       (reference "R1") (unit 1) (value "4.7k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
@@ -1258,62 +1258,62 @@
     (path "/edc1a6f8-b313-4a09-bc49-87244a79c408/60e303b8-136c-4422-806e-26bd6c996c17"
       (reference "R8") (unit 1) (value "20k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
-    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/6893db18-3287-4788-9f8c-5f5f066bd959"
-      (reference "R11") (unit 1) (value "DNI") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
-    )
-    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/6877d3a8-6718-4811-b80b-3aa2101b2772"
-      (reference "R12") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
-    )
-    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/a9884fb4-7f86-4c27-913d-1a13fa40efff"
-      (reference "R13") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
-    )
-    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/04b5ff82-1776-41e7-873c-1fbf5426d298"
-      (reference "R?") (unit 1) (value "4.7k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
-    )
-    (path "/8628b39a-a9ad-4ff5-81e6-95e0da2000cf/04d1846d-e7d3-495a-a9fd-f0ae645296ac"
-      (reference "R?") (unit 1) (value "27") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
-    )
-    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/10fcb57d-2a8c-42d7-8051-66bdc53aa6e3"
-      (reference "R?") (unit 1) (value "4.7k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/abafead4-316b-4530-9c4c-a831c32c53a6"
+      (reference "R9") (unit 1) (value "DNI") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
     (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/18e5fa41-c9ad-4018-8d72-e8664360c9fc"
-      (reference "R?") (unit 1) (value "DNI") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
-    )
-    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/1e915a57-b226-4cbe-a877-88951b2eecdb"
-      (reference "R?") (unit 1) (value "DNI") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
-    )
-    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/6e940b30-3176-43da-9815-74384e31eddc"
-      (reference "R?") (unit 1) (value "DNI") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
-    )
-    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/abafead4-316b-4530-9c4c-a831c32c53a6"
-      (reference "R?") (unit 1) (value "DNI") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
-    )
-    (path "/8628b39a-a9ad-4ff5-81e6-95e0da2000cf/b6b128c3-5c64-43b3-9f3c-ce827cef64eb"
-      (reference "R?") (unit 1) (value "DNI") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
-    )
-    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/c1fd16cb-eae1-4d83-82f4-8d58181a24e2"
-      (reference "R?") (unit 1) (value "DNI") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
-    )
-    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/cda7965a-373d-4d1a-b0ea-824097f831a4"
-      (reference "R?") (unit 1) (value "4.7k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+      (reference "R10") (unit 1) (value "DNI") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
     (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/d0933353-4265-42dc-9e3a-a69bb63ca298"
-      (reference "R?") (unit 1) (value "DNI") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+      (reference "R11") (unit 1) (value "DNI") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
-    (path "/8628b39a-a9ad-4ff5-81e6-95e0da2000cf/d1906fa8-9849-4b3e-8569-54bec770cfa2"
-      (reference "R?") (unit 1) (value "27") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/6e940b30-3176-43da-9815-74384e31eddc"
+      (reference "R12") (unit 1) (value "DNI") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
-    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/d589c362-63d9-44d1-899a-bf521843c3f7"
-      (reference "R?") (unit 1) (value "DNI") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/c1fd16cb-eae1-4d83-82f4-8d58181a24e2"
+      (reference "R13") (unit 1) (value "DNI") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
     (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/da167a0f-9271-46ff-b1b3-6a3b91b313a3"
-      (reference "R?") (unit 1) (value "DNI") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+      (reference "R14") (unit 1) (value "DNI") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
-    (path "/8628b39a-a9ad-4ff5-81e6-95e0da2000cf/f2d498d8-d48e-484a-856c-967634a3bc48"
-      (reference "R?") (unit 1) (value "DNI") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/1e915a57-b226-4cbe-a877-88951b2eecdb"
+      (reference "R15") (unit 1) (value "DNI") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    )
+    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/d589c362-63d9-44d1-899a-bf521843c3f7"
+      (reference "R16") (unit 1) (value "DNI") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    )
+    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/6893db18-3287-4788-9f8c-5f5f066bd959"
+      (reference "R17") (unit 1) (value "DNI") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    )
+    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/6877d3a8-6718-4811-b80b-3aa2101b2772"
+      (reference "R18") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    )
+    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/04b5ff82-1776-41e7-873c-1fbf5426d298"
+      (reference "R19") (unit 1) (value "4.7k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    )
+    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/10fcb57d-2a8c-42d7-8051-66bdc53aa6e3"
+      (reference "R20") (unit 1) (value "4.7k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
     (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/f3ec9958-57d8-4432-958b-4a9c2db0de71"
-      (reference "R?") (unit 1) (value "4.7k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+      (reference "R21") (unit 1) (value "4.7k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    )
+    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/cda7965a-373d-4d1a-b0ea-824097f831a4"
+      (reference "R22") (unit 1) (value "4.7k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    )
+    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/a9884fb4-7f86-4c27-913d-1a13fa40efff"
+      (reference "R23") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    )
+    (path "/8628b39a-a9ad-4ff5-81e6-95e0da2000cf/04d1846d-e7d3-495a-a9fd-f0ae645296ac"
+      (reference "R24") (unit 1) (value "27") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    )
+    (path "/8628b39a-a9ad-4ff5-81e6-95e0da2000cf/d1906fa8-9849-4b3e-8569-54bec770cfa2"
+      (reference "R25") (unit 1) (value "27") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    )
+    (path "/8628b39a-a9ad-4ff5-81e6-95e0da2000cf/b6b128c3-5c64-43b3-9f3c-ce827cef64eb"
+      (reference "R26") (unit 1) (value "DNI") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    )
+    (path "/8628b39a-a9ad-4ff5-81e6-95e0da2000cf/f2d498d8-d48e-484a-856c-967634a3bc48"
+      (reference "R27") (unit 1) (value "DNI") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/e1f51369-f4ec-48e8-b20b-32204b8fff18"
       (reference "S1") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
@@ -1517,232 +1517,232 @@
       (reference "S67") (unit 1) (value "QBLP677R-RGB") (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/f35fb016-4f36-4ed4-9c3b-d02c67451e6c"
-      (reference "SW1") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW1") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/3d7e26c7-eb52-4cff-865d-4d96fb6fea1d"
-      (reference "SW2") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW2") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/791f739e-39f5-4c15-9cab-957c41beabbb"
-      (reference "SW3") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW3") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/6e0dfe2d-9446-40a4-a982-eae6efcadc88"
-      (reference "SW4") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW4") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/056f9f0b-6218-4fa5-bb08-1bc7d1b8b9e6"
-      (reference "SW5") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW5") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/bbee7a24-063f-40d5-b6c0-d82791e26ad3"
-      (reference "SW6") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW6") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/58d6c32c-54a2-4e88-9e25-3faf4ebbafec"
-      (reference "SW7") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW7") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/d9baab4c-2659-4d0f-9d9c-24d0024ac5c9"
-      (reference "SW8") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW8") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/467f4ef1-fe08-4b66-84b3-797e8f9a45f6"
-      (reference "SW9") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW9") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/ca8844b8-d241-43d7-917a-a4ad378e1f3b"
-      (reference "SW10") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW10") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/4a01ae11-1396-4c70-b81f-cd8b4c0aea38"
-      (reference "SW11") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW11") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/3809e9b8-f6ea-472a-ad02-56cb130c9846"
-      (reference "SW12") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW12") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/96a6f376-0f68-4382-9ca5-af0de5e3e0ae"
-      (reference "SW13") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW13") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/a8d4527d-833a-422c-98bd-2eb3aafd6999"
-      (reference "SW14") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW14") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/805784ae-c50f-4cac-b1fa-75e137014e07"
-      (reference "SW15") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW15") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/9970f2ca-b0b4-4bf6-8340-828c256e2b66"
-      (reference "SW16") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW16") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/bb75bfc1-69c5-414c-9466-10eae31cd00b"
-      (reference "SW17") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW17") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/b39a9612-bd0c-466e-b6cc-fca9691e62c4"
-      (reference "SW18") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW18") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/dafa57a8-7387-4786-891a-ec69d130ec83"
-      (reference "SW19") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW19") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/e6b572c2-9b6c-4d5b-9fb4-eb20c7001655"
-      (reference "SW20") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW20") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/d0b7c619-bf75-48c8-8989-64e38e23bf31"
-      (reference "SW21") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW21") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/a5fe9fc6-6dd2-4920-b3d9-948e4be53de8"
-      (reference "SW22") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW22") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/a1c3281f-d6d2-49d7-835f-7e7236326fac"
-      (reference "SW23") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW23") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/9872e0e1-ad62-4381-a967-f77ae3fc0e72"
-      (reference "SW24") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW24") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/c3cc76f2-e530-489f-b222-6927e293553d"
-      (reference "SW25") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW25") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/5ffa8ae0-5e54-49da-9f27-c8ff5d4a515a"
-      (reference "SW26") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW26") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/2d4ed9b4-7d84-4af0-beb2-f79acfe2c201"
-      (reference "SW27") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW27") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/2212e1c6-1116-4702-8459-3f578e6f8a97"
-      (reference "SW28") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW28") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/2279bd6e-2f7b-4f3f-aa29-12220b246bb1"
-      (reference "SW29") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW29") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/2a0ce06f-426f-4540-8dbf-9166e94d2079"
-      (reference "SW30") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW30") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/4f753553-94cd-422b-bbf4-8e1efa4f6d83"
-      (reference "SW31") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW31") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/a8cbfd74-0fc8-45be-8d50-5083048f9409"
-      (reference "SW32") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW32") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/ff2cc07c-d9e1-4d39-819a-8a14215e63b0"
-      (reference "SW33") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW33") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/5aa2b9c7-d4fc-4486-9052-a2cb64ba7e26"
-      (reference "SW34") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW34") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/553d883e-2a02-466f-a242-5af5b5e43f6c"
-      (reference "SW35") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW35") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/39a90239-1957-4101-9ba4-60b9b72598a1"
-      (reference "SW36") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW36") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/5de7eda7-0c0e-49bf-9a3e-ee5507be6e0d"
-      (reference "SW37") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW37") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/ff2e1b38-ba1b-4212-9c0c-e939473878ab"
-      (reference "SW38") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW38") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/c7b358ab-7869-426e-90f6-ed524ca1b956"
-      (reference "SW39") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW39") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/17f2577f-30af-42c6-bf66-65ddf128c793"
-      (reference "SW40") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW40") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/b37a69fd-87e8-4efa-9bf1-3ed2532a7086"
-      (reference "SW41") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW41") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/3ec28d2c-14d2-4197-913e-19c891814b5f"
-      (reference "SW42") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW42") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/df8ef60e-801d-4dbb-aee8-a7d4f0778df2"
-      (reference "SW43") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW43") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/b8b7d629-7009-4272-9b9d-6aaa841fc15e"
-      (reference "SW44") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW44") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/9c4b40bf-ce75-4f79-a0c6-6744b23f9c01"
-      (reference "SW45") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW45") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/b4b9f8db-c21c-4019-ab3a-fd2fcafdf0b2"
-      (reference "SW46") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW46") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/ae06fd3e-d1e7-4033-b5a9-1feb7301ddf7"
-      (reference "SW47") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW47") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/6fb24e64-c377-40bd-a57f-605c03b63463"
-      (reference "SW48") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW48") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/99ab9569-d9e8-436f-9cac-4e3f00237867"
-      (reference "SW49") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW49") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/854a0ebe-6b07-4373-b059-ef188b48e0b7"
-      (reference "SW50") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW50") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/f74579cf-d1f2-475d-b56a-964aab6a62bd"
-      (reference "SW51") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW51") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/0fac674a-7b08-4a5b-b391-e7f3ea26834f"
-      (reference "SW52") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW52") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/6a2a53a5-22d4-4806-807c-eb6b3700d266"
-      (reference "SW53") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW53") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/f6a056a2-66e1-43f5-bdc5-c139e684e8ff"
-      (reference "SW54") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW54") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/d80df465-a70f-45da-95ea-bb5bb06a9738"
-      (reference "SW55") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW55") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/bfbb8447-71f9-49ca-bee6-4009003c8324"
-      (reference "SW56") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW56") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/d70e67b9-5ebb-4274-9401-7e37515064bb"
-      (reference "SW57") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW57") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/a6a8bada-39b3-4221-87ce-516fc260935a"
-      (reference "SW58") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW58") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/0e9ee8ba-9aa8-40ab-a464-c92e36b5e31e"
-      (reference "SW59") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW59") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/d3ba55f9-7d57-4d67-9568-68a5f572d15c"
-      (reference "SW60") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW60") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/89225af5-eb79-4696-9ee0-5406b51b89c5"
-      (reference "SW61") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW61") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/eec19773-90ac-4916-ab11-905187450402"
-      (reference "SW62") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW62") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/be881878-ca74-4ffd-a98c-9fb5bff042d9"
-      (reference "SW63") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW63") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/5b15fa05-3b2e-4bfc-ac4d-dc9af75e1b5d"
-      (reference "SW64") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW64") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/843efde0-88d8-48ea-9aa8-ec99d3da39a2"
-      (reference "SW65") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW65") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/ac21af6a-f355-46af-bb0b-682d1e518741"
-      (reference "SW66") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW66") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/12465e99-290a-4e94-8fc7-2ea2a787083d"
-      (reference "SW67") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW67") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/42fb8893-4af8-4b23-8962-e4c086082e31"
-      (reference "SW68") (unit 1) (value "MX_Lekker") (footprint "")
+      (reference "SW68") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/178ee27f-a414-46a2-9793-d99daaa1cc0f"
       (reference "SW69") (unit 1) (value "SW_Push") (footprint "random_parts:SKQG-1155865")
     )
-    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/c1f110f1-e177-424c-a828-16eec3a97490"
-      (reference "SW70") (unit 1) (value "SW_Push") (footprint "random_parts:SKQG-1155865")
-    )
     (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/ed5923fd-518c-49af-9ef8-0a9dd7a37b5d"
-      (reference "SW?") (unit 1) (value "RotaryEncoder_Switch") (footprint "")
+      (reference "SW70") (unit 1) (value "RotaryEncoder_Switch") (footprint "")
+    )
+    (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/c1f110f1-e177-424c-a828-16eec3a97490"
+      (reference "SW71") (unit 1) (value "SW_Push") (footprint "random_parts:SKQG-1155865")
     )
     (path "/edc1a6f8-b313-4a09-bc49-87244a79c408/207ccf87-598c-48c5-a883-71e8ec79b470"
       (reference "TP1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
     )
     (path "/8628b39a-a9ad-4ff5-81e6-95e0da2000cf/3dfc84af-ff2c-42f4-88d2-89a6e7576e19"
-      (reference "TP?") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_1.5x1.5mm")
-    )
-    (path "/8628b39a-a9ad-4ff5-81e6-95e0da2000cf/5e24990f-ce6f-444f-8cc0-3a24f0ecd9ce"
-      (reference "TP?") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_1.5x1.5mm")
+      (reference "TP2") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_1.5x1.5mm")
     )
     (path "/8628b39a-a9ad-4ff5-81e6-95e0da2000cf/bc649973-1c75-4e25-9a2f-f2834885e041"
-      (reference "TP?") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_1.5x1.5mm")
+      (reference "TP3") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_1.5x1.5mm")
     )
     (path "/8628b39a-a9ad-4ff5-81e6-95e0da2000cf/c4fb595f-1fee-422e-8cd0-9226673de7df"
-      (reference "TP?") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_1.5x1.5mm")
+      (reference "TP4") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_1.5x1.5mm")
+    )
+    (path "/8628b39a-a9ad-4ff5-81e6-95e0da2000cf/5e24990f-ce6f-444f-8cc0-3a24f0ecd9ce"
+      (reference "TP5") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_1.5x1.5mm")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/bb4c3497-c2d9-4f04-b795-7c27e4c0791f"
       (reference "U1") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
@@ -1955,10 +1955,10 @@
       (reference "U70") (unit 1) (value "RP2040") (footprint "RP2040_minimal:RP2040-QFN-56")
     )
     (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/22eec382-8d0c-43f4-9a02-c8191b888c2a"
-      (reference "U?") (unit 1) (value "FM24CL16B") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
+      (reference "U71") (unit 1) (value "FM24CL16B") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/8628b39a-a9ad-4ff5-81e6-95e0da2000cf/3fc2e16d-386d-4b2f-a1b1-a3a1d1c502b5"
-      (reference "U?") (unit 1) (value "NCP1117-3.3_SOT223") (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2")
+      (reference "U72") (unit 1) (value "NCP1117-3.3_SOT223") (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2")
     )
     (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/979866b1-cc77-49b4-8e94-370049d856fd"
       (reference "Y1") (unit 1) (value "12MHz") (footprint "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm")
