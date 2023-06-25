@@ -21,7 +21,7 @@ key_regex = r"(K_[0-9]+)"
 lekker_regex = r"(SW[0-9]+)"
 led_regex = r"(S[0-9]+)"
 hall_regex = r"(U[0-9]+)"
-cap_regex = r"(C[0-9]+)"
+cap_regex = r"\"(C[0-9]+)\""
 
 # generate dictionary of names
 position_dict = {}
