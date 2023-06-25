@@ -15,11 +15,13 @@ ref_header_regex = r"MX_Alps_Hybrid:MX-([0-9\.]+)U"
 out_header_regex = r"footprint \"MX_Only:MX_Lekker"
 led_header_regex = r"footprint \"random-keyboard-parts:QBLP677R-RGB"
 hall_header_regex = r"footprint \"random_parts:SOT-23_Handsoldering_no_plane\""
+cap_header_regex = r"footprint \"Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 at_regex = r"\(at ([0-9\.]+) ([0-9\.]+)"
 key_regex = r"(K_[0-9]+)"
 lekker_regex = r"(SW[0-9]+)"
 led_regex = r"(S[0-9]+)"
-hall_regex = r"(U[0-9\.]+)"
+hall_regex = r"(U[0-9]+)"
+cap_regex = r"(C[0-9]+)"
 
 # generate dictionary of names
 position_dict = {}
@@ -56,6 +58,7 @@ print(position_dict)
 key_line_dict = {}
 led_line_dict = {}
 hall_line_dict = {}
+cap_line_dict = {}
 with open(app_filename) as app_file:
     lines = app_file.readlines()
     test = False
@@ -63,9 +66,11 @@ with open(app_filename) as app_file:
     state = 0
     state1 = 0
     state2 = 0
+    state3 = 0
     save_line = None
     save_line1 = None
     save_line2 = None
+    save_line3 = None
     for (line_num, line) in enumerate(lines):
         # print(line)
         # find the header
@@ -140,6 +145,31 @@ with open(app_filename) as app_file:
                 save_line2 = None
                 state2 = 0
 
+        ########### For Capacitors
+        # find the header
+        if state3 == 0:
+            headers = re.search(cap_header_regex, line)
+            if (headers is not None):
+                state3 = 1
+
+        # find the at line
+        elif state3 == 1:
+            pos_search = re.search(at_regex, line)
+            if pos_search is not None and pos_search.group(1) is not None and pos_search.group(2) is not None:
+                save_line3 = line_num
+                state3 = 2
+
+        # find the key
+        elif state3 == 2:
+            key_search = re.search(cap_regex, line)
+            if key_search is not None and key_search.group(1) is not None:
+                cap_line_dict[key_search.group(1)] = save_line3
+                # reset machine
+                save_line3 = None
+                state3 = 0
+
+
+
     print("\n") 
     print(key_line_dict)
     print(led_line_dict)
@@ -156,12 +186,16 @@ with open(app_filename, "w") as app_file:
         
         lines[key_line_dict[key]] = "    (at %.4f %.4f)\n" % (position[0], position[1])
         hall_key = key.replace("SW", "U")
-        lines[hall_line_dict[hall_key]] = "    (at %.4f %.4f)\n" % (position[0], position[1])
+        lines[hall_line_dict[hall_key]] = "    (at %.4f %.4f 90)\n" % (position[0], position[1])
         # Write the no fill area
-        lines[hall_line_dict[hall_key]+45] = "          (xy %.3f %.3f)\n" % (position[0]+1.16, position[1]+1.58)
-        lines[hall_line_dict[hall_key]+46] = "          (xy %.3f %.3f)\n" % (position[0]-1.16, position[1]+1.58)
-        lines[hall_line_dict[hall_key]+47] = "          (xy %.3f %.3f)\n" % (position[0]-1.16, position[1]-1.58)
-        lines[hall_line_dict[hall_key]+48] = "          (xy %.3f %.3f)\n" % (position[0]+1.16, position[1]-1.58)
+        lines[hall_line_dict[hall_key]+45] = "          (xy %.3f %.3f)\n" % (position[0]-1.58, position[1]-1.16)
+        lines[hall_line_dict[hall_key]+46] = "          (xy %.3f %.3f)\n" % (position[0]-1.58, position[1]+1.16)
+        lines[hall_line_dict[hall_key]+47] = "          (xy %.3f %.3f)\n" % (position[0]+1.58, position[1]+1.16)
+        lines[hall_line_dict[hall_key]+48] = "          (xy %.3f %.3f)\n" % (position[0]+1.58, position[1]-1.16)
+
+        # capactiros
+        cap_key = key.replace("SW", "C")
+        lines[cap_line_dict[cap_key]] = "    (at %.4f %.4f 90)\n" % (position[0]+2.75, position[1])
 
         if(key != "K_14"):
             led_key = key.replace("SW", "S")
