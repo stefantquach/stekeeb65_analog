@@ -196,7 +196,7 @@ with open(app_filename, "w") as app_file:
 
         # capactiros
         cap_key = key.replace("SW", "C")
-        lines[cap_line_dict[cap_key]] = "    (at %.4f %.4f 90)\n" % (position[0]+2.75, position[1])
+        lines[cap_line_dict[cap_key]] = "    (at %.4f %.4f 90)\n" % (position[0]+2.75, position[1]+0.5)
 
         if(key != "K_14"):
             led_key = key.replace("SW", "S")

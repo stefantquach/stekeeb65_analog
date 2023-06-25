@@ -395,7 +395,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 06e0378d-0802-4ff1-bc1a-85f138397517)
-    (at 62.31 60.03)
+    (at 11.9062 85.725)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/0e9ee8ba-9aa8-40ab-a464-c92e36b5e31e")
@@ -429,7 +429,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 1fac09f5-6c08-47f4-9d56-807066bb62c8)
-    (at 62.31 39.83)
+    (at 47.625 9.525)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/791f739e-39f5-4c15-9cab-957c41beabbb")
@@ -463,7 +463,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 1fd9557c-9637-46d7-b92c-be6b994a5bb2)
-    (at 82.51 60.03)
+    (at 195.2625 47.625)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/17f2577f-30af-42c6-bf66-65ddf128c793")
@@ -497,7 +497,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 249a83da-c4a2-4322-953d-9347e3021846)
-    (at 163.31 120.63)
+    (at 200.025 85.725)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/be881878-ca74-4ffd-a98c-9fb5bff042d9")
@@ -531,7 +531,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 24af6112-48b0-4e8e-b175-85eb63f40eab)
-    (at 62.31 100.43)
+    (at 123.825 9.525)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/58d6c32c-54a2-4e88-9e25-3faf4ebbafec")
@@ -565,7 +565,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 2979b883-a014-4a68-a9a7-e680f7ecf353)
-    (at 122.91 120.63)
+    (at 21.4312 66.675)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/9c4b40bf-ce75-4f79-a0c6-6744b23f9c01")
@@ -599,7 +599,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 2c64985a-ba7a-47ba-9f43-89e0d7c05570)
-    (at 62.31 140.83)
+    (at 209.55 28.575)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/5ffa8ae0-5e54-49da-9f27-c8ff5d4a515a")
@@ -633,7 +633,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 2e240f88-7232-4f87-8615-294a7f7734ae)
-    (at 143.11 80.23)
+    (at 200.025 9.525)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/4a01ae11-1396-4c70-b81f-cd8b4c0aea38")
@@ -667,7 +667,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 2fffe151-1e8a-4e47-b673-6a8ca3555650)
-    (at 163.31 161.03)
+    (at 130.9688 85.725)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/eec19773-90ac-4916-ab11-905187450402")
@@ -701,7 +701,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 32c28a5b-6c00-4b9b-a0d6-4b431e6e2613)
-    (at 42.11 60.03)
+    (at 16.6687 47.625)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/4f753553-94cd-422b-bbf4-8e1efa4f6d83")
@@ -735,7 +735,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 3476b378-ca65-42a8-8bfb-f59f6e97457d)
-    (at 42.11 161.03)
+    (at 185.7375 66.675)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/6a2a53a5-22d4-4806-807c-eb6b3700d266")
@@ -769,7 +769,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 394cf9e6-b3ac-48d9-9c40-ef44d1294a98)
-    (at 62.31 120.63)
+    (at 219.075 85.725)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/5b15fa05-3b2e-4bfc-ac4d-dc9af75e1b5d")
@@ -803,7 +803,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 3ad3e90c-da30-40da-b83d-347234a4d46b)
-    (at 143.11 120.63)
+    (at 214.3125 47.625)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/b37a69fd-87e8-4efa-9bf1-3ed2532a7086")
@@ -837,7 +837,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 3ccca98e-04e5-433b-9e84-3a607506f39c)
-    (at 82.51 140.83)
+    (at 90.4875 66.675)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/6fb24e64-c377-40bd-a57f-605c03b63463")
@@ -871,7 +871,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 3f2b0cf5-546b-4950-b90c-67985f05415e)
-    (at 264.31 39.83)
+    (at 95.25 28.575)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/e6b572c2-9b6c-4d5b-9fb4-eb20c7001655")
@@ -905,7 +905,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 415367da-b1fa-4959-b1b8-c2bff2125e17)
-    (at 203.71 80.23)
+    (at 190.5 28.575)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/c3cc76f2-e530-489f-b222-6927e293553d")
@@ -939,7 +939,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 460d4342-da1e-4fd0-a971-759c60211659)
-    (at 143.11 39.83)
+    (at 219.075 9.525)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/3809e9b8-f6ea-472a-ad02-56cb130c9846")
@@ -973,7 +973,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 4a9c4d83-8968-4152-83f7-94a8a8acf8ab)
-    (at 42.11 100.43)
+    (at 238.125 85.725)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/843efde0-88d8-48ea-9aa8-ec99d3da39a2")
@@ -1007,7 +1007,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 4e9b3a30-09b6-48a7-bd8a-8094c67852ca)
-    (at 122.91 161.03)
+    (at 104.775 9.525)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/bbee7a24-063f-40d5-b6c0-d82791e26ad3")
@@ -1041,7 +1041,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 4ed6796c-0a51-487a-be55-7848b5415f35)
-    (at 42.11 120.63)
+    (at 271.4625 28.575)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/2279bd6e-2f7b-4f3f-aa29-12220b246bb1")
@@ -1075,7 +1075,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 50ea647a-461d-46d1-a68b-200b7b148900)
-    (at 244.11 80.23)
+    (at 61.9125 47.625)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/ff2cc07c-d9e1-4d39-819a-8a14215e63b0")
@@ -1109,7 +1109,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 5b1cb28e-c7ae-46a4-9f70-1ef0c6674031)
-    (at 62.31 161.03)
+    (at 295.275 85.725)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/42fb8893-4af8-4b23-8962-e4c086082e31")
@@ -1143,7 +1143,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 5e882e06-b110-475a-80b5-e66493759f96)
-    (at 143.11 140.83)
+    (at 76.2 28.575)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/dafa57a8-7387-4786-891a-ec69d130ec83")
@@ -1177,7 +1177,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 5f88e02f-cb01-4d7b-b773-2a4c477f137f)
-    (at 203.71 60.03)
+    (at 295.275 47.625)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/b8b7d629-7009-4272-9b9d-6aaa841fc15e")
@@ -1211,7 +1211,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 5fbd213d-229e-4a38-8f15-1f58e4823ec9)
-    (at 163.31 100.43)
+    (at 57.15 28.575)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/b39a9612-bd0c-466e-b6cc-fca9691e62c4")
@@ -1245,7 +1245,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 60bb1db8-dd01-412a-81e6-dae4325e9a5f)
-    (at 183.51 39.83)
+    (at 171.45 28.575)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/9872e0e1-ad62-4381-a967-f77ae3fc0e72")
@@ -1279,7 +1279,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 61d5188f-e39c-448a-8e51-410aeae0da3e)
-    (at 143.11 60.03)
+    (at 233.3625 47.625)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/3ec28d2c-14d2-4197-913e-19c891814b5f")
@@ -1313,7 +1313,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 62dd1637-f7de-4681-8105-ff7bf627f0f2)
-    (at 62.31 80.23)
+    (at 276.225 85.725)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/12465e99-290a-4e94-8fc7-2ea2a787083d")
@@ -1347,7 +1347,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 63a603c3-fa2f-4eb4-9a0c-b9b1b4387966)
-    (at 244.11 39.83)
+    (at 180.975 9.525)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/ca8844b8-d241-43d7-917a-a4ad378e1f3b")
@@ -1381,7 +1381,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 68d756a1-f19e-4dc7-a5af-e5afa6b979ac)
-    (at 223.91 60.03)
+    (at 176.2125 47.625)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/c7b358ab-7869-426e-90f6-ed524ca1b956")
@@ -1415,7 +1415,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 75260ee5-2e06-4722-a885-33c36b072408)
-    (at 102.71 39.83)
+    (at 247.65 28.575)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/2212e1c6-1116-4702-8459-3f578e6f8a97")
@@ -1449,7 +1449,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 75443718-5892-47f7-be3d-bc92403eeec6)
-    (at 42.11 80.23)
+    (at 100.0125 47.625)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/553d883e-2a02-466f-a242-5af5b5e43f6c")
@@ -1483,7 +1483,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 77fe2b4f-54e3-45c0-8567-60e578659662)
-    (at 82.51 120.63)
+    (at 119.0625 47.625)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/39a90239-1957-4101-9ba4-60b9b72598a1")
@@ -1517,7 +1517,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 7cd9c5b3-1e55-4ea9-ba90-dc1eb252d7c2)
-    (at 163.31 39.83)
+    (at 66.675 9.525)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/6e0dfe2d-9446-40a4-a982-eae6efcadc88")
@@ -1551,7 +1551,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 80001a61-1fa4-4527-9790-681f063e52bc)
-    (at 102.71 161.03)
+    (at 257.175 85.725)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/ac21af6a-f355-46af-bb0b-682d1e518741")
@@ -1585,7 +1585,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 897ec7b9-bb0f-41b3-91fc-558da3e3353c)
-    (at 163.31 80.23)
+    (at 133.35 28.575)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/a5fe9fc6-6dd2-4920-b3d9-948e4be53de8")
@@ -1619,7 +1619,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 8ce8fca0-8b43-415a-8c6c-e484d2a1e950)
-    (at 183.51 80.23)
+    (at 52.3875 66.675)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/b4b9f8db-c21c-4019-ab3a-fd2fcafdf0b2")
@@ -1653,7 +1653,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 8f134597-538d-4e55-873c-1774c4043b87)
-    (at 203.71 100.43)
+    (at 223.8375 66.675)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/d80df465-a70f-45da-95ea-bb5bb06a9738")
@@ -1687,7 +1687,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 8fb4ad38-a07a-4bdb-a92f-1465584cc731)
-    (at 102.71 60.03)
+    (at 266.7 9.525)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/a8d4527d-833a-422c-98bd-2eb3aafd6999")
@@ -1721,7 +1721,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 90276273-3f20-4d08-8954-b6330a5ba5cd)
-    (at 183.51 140.83)
+    (at 9.525 9.525)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/f35fb016-4f36-4ed4-9c3b-d02c67451e6c")
@@ -1755,7 +1755,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 90e02e95-bc62-4554-864f-a7a0a5714d7b)
-    (at 122.91 100.43)
+    (at 161.925 9.525)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/467f4ef1-fe08-4b66-84b3-797e8f9a45f6")
@@ -1789,7 +1789,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 9357e94a-8e92-4c46-9ae8-5a3e23cb1944)
-    (at 223.91 100.43)
+    (at 147.6375 66.675)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/f74579cf-d1f2-475d-b56a-964aab6a62bd")
@@ -1823,7 +1823,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 93f6032d-9964-4986-9fac-5660464e371e)
-    (at 122.91 140.83)
+    (at 71.4375 66.675)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/ae06fd3e-d1e7-4033-b5a9-1feb7301ddf7")
@@ -1857,7 +1857,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 9560da74-dd09-4735-9bb3-c63169b5b561)
-    (at 223.91 39.83)
+    (at 38.1 28.575)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/bb75bfc1-69c5-414c-9466-10eae31cd00b")
@@ -1891,7 +1891,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 98bc5727-cf8f-4205-ab4a-e5f40e66999d)
-    (at 143.11 161.03)
+    (at 114.3 28.575)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/d0b7c619-bf75-48c8-8989-64e38e23bf31")
@@ -1925,7 +1925,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 9972c6ff-f21e-41e0-893c-4ecbc3c376dd)
-    (at 163.31 140.83)
+    (at 35.7188 85.725)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/d3ba55f9-7d57-4d67-9568-68a5f572d15c")
@@ -1959,7 +1959,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 9c36d5e4-598d-4887-bda7-404c96d67ebe)
-    (at 102.71 140.83)
+    (at 109.5375 66.675)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/99ab9569-d9e8-436f-9cac-4e3f00237867")
@@ -1993,7 +1993,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 9d25bcc9-e366-428f-9c8f-e865f323aeb0)
-    (at 203.71 39.83)
+    (at 42.8625 47.625)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/a8cbfd74-0fc8-45be-8d50-5083048f9409")
@@ -2027,7 +2027,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 9e7456c4-7fc3-45aa-88a0-82140af05094)
-    (at 244.11 60.03)
+    (at 264.3188 47.625)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/df8ef60e-801d-4dbb-aee8-a7d4f0778df2")
@@ -2061,7 +2061,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp 9ec69376-36ce-4ac6-a4c5-969cfe29bad4)
-    (at 42.11 39.83)
+    (at 85.725 9.525)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/056f9f0b-6218-4fa5-bb08-1bc7d1b8b9e6")
@@ -2095,7 +2095,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp c27f3dbc-2c6f-4766-addb-904e809092bf)
-    (at 122.91 39.83)
+    (at 80.9625 47.625)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/5aa2b9c7-d4fc-4486-9052-a2cb64ba7e26")
@@ -2129,7 +2129,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp c3d95ff1-022b-4919-a685-416d30f6b09f)
-    (at 183.51 60.03)
+    (at 295.275 66.675)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/a6a8bada-39b3-4221-87ce-516fc260935a")
@@ -2163,7 +2163,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp c7ec002b-6582-4df7-b581-66cb4a1a9886)
-    (at 42.11 140.83)
+    (at 228.6 28.575)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/2d4ed9b4-7d84-4af0-beb2-f79acfe2c201")
@@ -2197,7 +2197,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp cfc8c9bc-5b83-4f47-8c6a-0bfd735b60e6)
-    (at 102.71 100.43)
+    (at 128.5875 66.675)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/854a0ebe-6b07-4373-b059-ef188b48e0b7")
@@ -2231,7 +2231,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp d590625c-9237-4e5b-9e3c-54fc0ea02ce0)
-    (at 203.71 120.63)
+    (at 204.7875 66.675)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/f6a056a2-66e1-43f5-bdc5-c139e684e8ff")
@@ -2265,7 +2265,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp d6bd5cd5-1aab-4e14-a87e-6b0202d3c68c)
-    (at 183.51 120.63)
+    (at 276.225 66.675)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/d70e67b9-5ebb-4274-9401-7e37515064bb")
@@ -2299,7 +2299,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp dda6d46a-09da-469a-a641-c4ec10ef7d94)
-    (at 183.51 100.43)
+    (at 250.0312 66.675)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/bfbb8447-71f9-49ca-bee6-4009003c8324")
@@ -2333,7 +2333,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp de3b1730-ac5b-4296-9750-2a6d91fcec1a)
-    (at 122.91 60.03)
+    (at 138.1125 47.625)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/5de7eda7-0c0e-49bf-9a3e-ee5507be6e0d")
@@ -2367,7 +2367,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp e0f591d3-de8d-436d-8e60-6065c877a507)
-    (at 122.91 80.23)
+    (at 28.575 9.525)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/3d7e26c7-eb52-4cff-865d-4d96fb6fea1d")
@@ -2401,7 +2401,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp e2b22d76-e143-4484-909a-0d8ca7d9c9dc)
-    (at 143.11 100.43)
+    (at 152.4 28.575)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/a1c3281f-d6d2-49d7-835f-7e7236326fac")
@@ -2435,7 +2435,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp e70948cf-44fe-4777-a44b-96651998f90f)
-    (at 82.51 100.43)
+    (at 157.1625 47.625)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/ff2e1b38-ba1b-4212-9c0c-e939473878ab")
@@ -2469,7 +2469,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp e8e4062e-e179-4509-b2a6-c8667a205789)
-    (at 82.51 80.23)
+    (at 295.275 28.575)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/2a0ce06f-426f-4540-8dbf-9166e94d2079")
@@ -2503,7 +2503,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp e8fc37b2-739b-4e1a-a7ab-85ad2c069915)
-    (at 163.31 60.03)
+    (at 238.125 9.525)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/96a6f376-0f68-4382-9ca5-af0de5e3e0ae")
@@ -2537,7 +2537,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp ecd63aa9-c0bc-4c36-8bc9-03b8eab6ad59)
-    (at 82.51 161.03)
+    (at 14.2875 28.575)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/9970f2ca-b0b4-4bf6-8340-828c256e2b66")
@@ -2571,7 +2571,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp eeab71db-1e53-425f-b6b8-9bb638df0cdc)
-    (at 102.71 120.63)
+    (at 295.275 9.525)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/805784ae-c50f-4cac-b1fa-75e137014e07")
@@ -2605,7 +2605,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp f5bf39b0-3b97-4790-8c90-2a7c7985b8df)
-    (at 102.71 80.23)
+    (at 59.5312 85.725)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/89225af5-eb79-4696-9ee0-5406b51b89c5")
@@ -2639,7 +2639,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp f64f2693-505b-49bd-9bae-447c7e02829d)
-    (at 223.91 80.23)
+    (at 142.875 9.525)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/d9baab4c-2659-4d0f-9d9c-24d0024ac5c9")
@@ -2673,7 +2673,7 @@
 
   (footprint "MX_Only:MX_Lekker" (layer "F.Cu")
     (tedit 642B799A) (tstamp f9f6378b-9fa8-4a69-982b-ad25195d7a0a)
-    (at 82.51 39.83)
+    (at 166.6875 66.675)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/0fac674a-7b08-4a5b-b391-e7f3ea26834f")
@@ -2749,7 +2749,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp 030c8305-9dfb-41e9-8ca6-c6fe2ee4d813)
-    (at 334.57 123.47)
+    (at 214.3125 42.125)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/11020f53-8e6b-48fc-ae4a-c26c94580b7f")
@@ -2783,7 +2783,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp 03542ce4-c372-4a46-bc37-431855927029)
-    (at 262.74 184.43 90)
+    (at 104.775 9.525 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -2828,10 +2828,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 261.16 183.27)
-          (xy 261.16 185.63)
-          (xy 264.32 185.63)
-          (xy 264.32 183.27)
+          (xy 103.195 8.365)
+          (xy 103.195 10.685)
+          (xy 106.355 10.685)
+          (xy 106.355 8.365)
         )
       )
     )
@@ -2844,7 +2844,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp 038e6925-fe2e-458d-ab51-07a26a8c6964)
-    (at 238.13 249.93 90)
+    (at 90.4875 66.675 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -2889,10 +2889,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 236.55 248.77)
-          (xy 236.55 251.13)
-          (xy 239.71 251.13)
-          (xy 239.71 248.77)
+          (xy 88.907 65.515)
+          (xy 88.907 67.835)
+          (xy 92.067 67.835)
+          (xy 92.067 65.515)
         )
       )
     )
@@ -2905,7 +2905,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp 05d75266-ea15-4210-9755-60522e6cb8dc)
-    (at 334.57 156.43)
+    (at 276.225 80.225)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/7224e4a4-a199-4b96-935b-ba39842040f4")
@@ -2939,7 +2939,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp 0735f02d-0862-4fda-ba63-78002707547b)
-    (at 262.74 203.78 90)
+    (at 109.5375 66.675 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -2984,10 +2984,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 261.16 202.62)
-          (xy 261.16 204.98)
-          (xy 264.32 204.98)
-          (xy 264.32 202.62)
+          (xy 107.957 65.515)
+          (xy 107.957 67.835)
+          (xy 111.117 67.835)
+          (xy 111.117 65.515)
         )
       )
     )
@@ -3000,7 +3000,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 0773e278-9c00-43b3-9701-9406c668896a)
-    (at 281.58 216.12 90)
+    (at 88.475 10.025 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -3043,7 +3043,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp 082b612d-2c38-4b1d-b289-5af2c2c73a19)
-    (at 253.64 203.78 90)
+    (at 295.275 85.725 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -3088,10 +3088,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 252.06 202.62)
-          (xy 252.06 204.98)
-          (xy 255.22 204.98)
-          (xy 255.22 202.62)
+          (xy 293.695 84.565)
+          (xy 293.695 86.885)
+          (xy 296.855 86.885)
+          (xy 296.855 84.565)
         )
       )
     )
@@ -3104,7 +3104,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp 083b2527-e405-49bd-a309-2cdb85cd9a7a)
-    (at 238.77 228.19 90)
+    (at 16.6687 47.625 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -3149,10 +3149,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 237.19 227.03)
-          (xy 237.19 229.39)
-          (xy 240.35 229.39)
-          (xy 240.35 227.03)
+          (xy 15.089 46.465)
+          (xy 15.089 48.785)
+          (xy 18.249 48.785)
+          (xy 18.249 46.465)
         )
       )
     )
@@ -3165,7 +3165,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 087d2fed-a8a8-4955-9a44-d71536895b79)
-    (at 281.58 203.07 90)
+    (at 155.15 29.075 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -3208,7 +3208,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp 0a11d3b1-cff2-4dd0-8b2a-82bd9eef6608)
-    (at 239.1 167.56 90)
+    (at 114.3 28.575 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -3253,10 +3253,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 237.52 166.4)
-          (xy 237.52 168.76)
-          (xy 240.68 168.76)
-          (xy 240.68 166.4)
+          (xy 112.72 27.415)
+          (xy 112.72 29.735)
+          (xy 115.88 29.735)
+          (xy 115.88 27.415)
         )
       )
     )
@@ -3269,7 +3269,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 0b4b0cca-bc57-4edc-9005-be5f4d0112cc)
-    (at 271.54 203.07 90)
+    (at 178.9625 48.125 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -3312,7 +3312,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp 0f8cfa67-6c37-4c56-98c0-e134c16a7f3e)
-    (at 319.77 139.95)
+    (at 200.025 80.225)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/384350aa-e230-473c-a85d-3f31684b7ea4")
@@ -3389,7 +3389,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 110ec6c8-0d57-4ce0-8f4e-f6404b45055c)
-    (at 274.05 211.77 90)
+    (at 17.0375 29.075 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -3432,7 +3432,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 1124e02c-388b-4117-8e45-9c90cdd9f3a5)
-    (at 279.07 207.42 90)
+    (at 112.2875 67.175 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -3621,7 +3621,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp 154f7807-a3df-4439-bf1c-66b1d9d2a0a9)
-    (at 247.97 206.19 90)
+    (at 28.575 9.525 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -3666,10 +3666,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 246.39 205.03)
-          (xy 246.39 207.39)
-          (xy 249.55 207.39)
-          (xy 249.55 205.03)
+          (xy 26.995 8.365)
+          (xy 26.995 10.685)
+          (xy 30.155 10.685)
+          (xy 30.155 8.365)
         )
       )
     )
@@ -3682,7 +3682,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp 16c8b92f-96de-43c6-befb-6bfee5b95fc6)
-    (at 364.17 156.43)
+    (at 190.5 23.075)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/f10e7578-cb23-483f-9758-7793c8aff205")
@@ -3716,7 +3716,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 17268e24-9a03-492a-94fc-a6080eb38235)
-    (at 274.05 198.72 90)
+    (at 298.025 29.075 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -3759,7 +3759,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp 17ada901-d5aa-4a98-8f71-5835729509c3)
-    (at 239.1 199.81 90)
+    (at 95.25 28.575 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -3804,10 +3804,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 237.52 198.65)
-          (xy 237.52 201.01)
-          (xy 240.68 201.01)
-          (xy 240.68 198.65)
+          (xy 93.67 27.415)
+          (xy 93.67 29.735)
+          (xy 96.83 29.735)
+          (xy 96.83 27.415)
         )
       )
     )
@@ -3863,7 +3863,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp 1a907062-f9a9-45b4-b3a9-85b763e3ec8b)
-    (at 262.74 190.88 90)
+    (at 80.9625 47.625 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -3908,10 +3908,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 261.16 189.72)
-          (xy 261.16 192.08)
-          (xy 264.32 192.08)
-          (xy 264.32 189.72)
+          (xy 79.383 46.465)
+          (xy 79.383 48.785)
+          (xy 82.543 48.785)
+          (xy 82.543 46.465)
         )
       )
     )
@@ -3966,7 +3966,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp 1b5e1661-7a94-476e-8087-339708fbbd5f)
-    (at 242.68 249.93 90)
+    (at 142.875 9.525 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -4011,10 +4011,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 241.1 248.77)
-          (xy 241.1 251.13)
-          (xy 244.26 251.13)
-          (xy 244.26 248.77)
+          (xy 141.295 8.365)
+          (xy 141.295 10.685)
+          (xy 144.455 10.685)
+          (xy 144.455 8.365)
         )
       )
     )
@@ -4027,7 +4027,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 1ba1bff8-f773-4318-87c1-74dd20d08185)
-    (at 284.09 185.67 90)
+    (at 131.3375 67.175 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -4070,7 +4070,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 1bf60ab1-f1bd-44ac-8b49-6bcb36c20572)
-    (at 271.54 220.47 90)
+    (at 64.6625 48.125 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -4113,7 +4113,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp 1c11a1af-0d31-47b1-ae09-b46d63f6f507)
-    (at 304.97 123.47)
+    (at 59.5312 80.225)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/3330fa5c-dc4a-45e0-bb07-4444aca66dab")
@@ -4147,7 +4147,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp 1d177ac1-712d-406c-8549-382b4a61208b)
-    (at 341.97 152.31)
+    (at 209.55 23.075)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/d3f97b19-be4a-4ee9-ac8c-44a5f35d2875")
@@ -4181,7 +4181,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 1d7e7f38-fb1d-4e9b-9bd4-f21ef21a0f0a)
-    (at 281.58 207.42 90)
+    (at 19.4187 48.125 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -4224,7 +4224,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp 1e643787-769c-43e9-a8ff-c64eb1fcb67d)
-    (at 253.64 236.03 90)
+    (at 133.35 28.575 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -4269,10 +4269,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 252.06 234.87)
-          (xy 252.06 237.23)
-          (xy 255.22 237.23)
-          (xy 255.22 234.87)
+          (xy 131.77 27.415)
+          (xy 131.77 29.735)
+          (xy 134.93 29.735)
+          (xy 134.93 27.415)
         )
       )
     )
@@ -4285,7 +4285,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp 1f37ef69-5e6e-4bfc-bf75-b2c6fa771a9b)
-    (at 349.37 148.19)
+    (at 66.675 4.025)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/c27e4ce5-3544-4e90-aceb-0776ec836cc2")
@@ -4319,7 +4319,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 20982d6e-d720-4199-8f5e-dbb12950100b)
-    (at 269.03 207.42 90)
+    (at 45.6125 48.125 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -4404,7 +4404,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp 2336b4f7-6f59-41c9-b1d9-e64a430940bd)
-    (at 253.64 197.33 90)
+    (at 209.55 28.575 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -4449,10 +4449,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 252.06 196.17)
-          (xy 252.06 198.53)
-          (xy 255.22 198.53)
-          (xy 255.22 196.17)
+          (xy 207.97 27.415)
+          (xy 207.97 29.735)
+          (xy 211.13 29.735)
+          (xy 211.13 27.415)
         )
       )
     )
@@ -4590,7 +4590,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp 26195804-585f-4fd9-9505-0b2f463f4cc0)
-    (at 304.97 131.71)
+    (at 76.2 23.075)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/bfa98813-2818-4196-956f-dfecae3dd64b")
@@ -4624,7 +4624,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp 264ea1cd-7e3a-479f-996a-c3cc3e2732eb)
-    (at 247.87 228.19 90)
+    (at 76.2 28.575 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -4669,10 +4669,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 246.29 227.03)
-          (xy 246.29 229.39)
-          (xy 249.45 229.39)
-          (xy 249.45 227.03)
+          (xy 74.62 27.415)
+          (xy 74.62 29.735)
+          (xy 77.78 29.735)
+          (xy 77.78 27.415)
         )
       )
     )
@@ -4685,7 +4685,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp 2848edd0-2aa2-4882-8511-43bd8f4c89a2)
-    (at 258.19 229.58 90)
+    (at 138.1125 47.625 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -4730,10 +4730,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 256.61 228.42)
-          (xy 256.61 230.78)
-          (xy 259.77 230.78)
-          (xy 259.77 228.42)
+          (xy 136.532 46.465)
+          (xy 136.532 48.785)
+          (xy 139.693 48.785)
+          (xy 139.693 46.465)
         )
       )
     )
@@ -4789,7 +4789,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp 2a1942df-a9f6-4b96-bf91-1361a630bcfe)
-    (at 253.64 242.48 90)
+    (at 57.15 28.575 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -4834,10 +4834,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 252.06 241.32)
-          (xy 252.06 243.68)
-          (xy 255.22 243.68)
-          (xy 255.22 241.32)
+          (xy 55.57 27.415)
+          (xy 55.57 29.735)
+          (xy 58.73 29.735)
+          (xy 58.73 27.415)
         )
       )
     )
@@ -4850,7 +4850,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp 2b76cefd-3e5b-46ea-aeb2-6a2b85d260ff)
-    (at 262.74 216.68 90)
+    (at 271.4625 28.575 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -4895,10 +4895,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 261.16 215.52)
-          (xy 261.16 217.88)
-          (xy 264.32 217.88)
-          (xy 264.32 215.52)
+          (xy 269.882 27.415)
+          (xy 269.882 29.735)
+          (xy 273.042 29.735)
+          (xy 273.042 27.415)
         )
       )
     )
@@ -4911,7 +4911,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 2c0b0d0a-82ae-450d-a6ad-68a29f32beb6)
-    (at 279.07 211.77 90)
+    (at 159.9125 48.125 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -4954,7 +4954,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp 2c916499-8cce-48dd-94dc-f41dd27b49d6)
-    (at 304.97 139.95)
+    (at 95.25 23.075)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/4b0fc805-da1e-4776-8f16-566d795e2fdc")
@@ -4988,7 +4988,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp 2efd35de-a183-4d62-b5d6-644d99eb8914)
-    (at 341.97 135.83)
+    (at 61.9125 42.125)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/9468ea40-d04f-4507-8562-2116c31d0712")
@@ -5022,7 +5022,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp 315b73ce-c862-49c6-b950-ebcbd22bea5d)
-    (at 243.65 199.81 90)
+    (at 85.725 9.525 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -5067,10 +5067,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 242.07 198.65)
-          (xy 242.07 201.01)
-          (xy 245.23 201.01)
-          (xy 245.23 198.65)
+          (xy 84.145 8.365)
+          (xy 84.145 10.685)
+          (xy 87.305 10.685)
+          (xy 87.305 8.365)
         )
       )
     )
@@ -5083,7 +5083,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp 31ad0f3d-3343-4618-8336-b89a78b83b1e)
-    (at 341.93 123.4)
+    (at 295.275 80.225)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/4becd404-bdae-4953-88fc-ca71fbaca0ae")
@@ -5159,7 +5159,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp 33c9cd5a-0b16-4784-81bb-8053883c3557)
-    (at 258.19 216.68 90)
+    (at 35.7188 85.725 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -5204,10 +5204,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 256.61 215.52)
-          (xy 256.61 217.88)
-          (xy 259.77 217.88)
-          (xy 259.77 215.52)
+          (xy 34.139 84.565)
+          (xy 34.139 86.885)
+          (xy 37.299 86.885)
+          (xy 37.299 84.565)
         )
       )
     )
@@ -5220,7 +5220,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 33ea13c6-18f6-4833-84ea-73673413ce4b)
-    (at 289.11 216.12 90)
+    (at 169.4375 67.175 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -5263,7 +5263,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 350ea160-271f-4ddd-a70a-712bc3961bcb)
-    (at 279.07 198.72 90)
+    (at 207.5375 67.175 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -5306,7 +5306,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp 36f82ca7-c352-4b2b-8a09-6968cb89db79)
-    (at 312.37 152.31)
+    (at 233.3625 42.125)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/fb497f9f-7830-4bd2-af4e-afdb3592f91c")
@@ -5340,7 +5340,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp 375e793b-0d69-403b-ae3c-3d5caaf1f7a0)
-    (at 312.37 156.43)
+    (at 195.2625 42.125)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/80e8069d-6e08-4d09-8519-5f6f7cce0569")
@@ -5437,7 +5437,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp 384ef439-3c64-4f14-a0e1-54f1fbd2f496)
-    (at 262.74 223.13 90)
+    (at 190.5 28.575 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -5482,10 +5482,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 261.16 221.97)
-          (xy 261.16 224.33)
-          (xy 264.32 224.33)
-          (xy 264.32 221.97)
+          (xy 188.92 27.415)
+          (xy 188.92 29.735)
+          (xy 192.08 29.735)
+          (xy 192.08 27.415)
         )
       )
     )
@@ -5666,7 +5666,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp 3d736fea-2696-4be1-b181-df683e267329)
-    (at 258.19 210.23 90)
+    (at 247.65 28.575 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -5711,10 +5711,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 256.61 209.07)
-          (xy 256.61 211.43)
-          (xy 259.77 211.43)
-          (xy 259.77 209.07)
+          (xy 246.07 27.415)
+          (xy 246.07 29.735)
+          (xy 249.23 29.735)
+          (xy 249.23 27.415)
         )
       )
     )
@@ -5727,7 +5727,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp 3ddeaedb-1db1-4be3-949b-b75a174d871c)
-    (at 243.32 228.19 90)
+    (at 214.3125 47.625 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -5772,10 +5772,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 241.74 227.03)
-          (xy 241.74 229.39)
-          (xy 244.9 229.39)
-          (xy 244.9 227.03)
+          (xy 212.732 46.465)
+          (xy 212.732 48.785)
+          (xy 215.893 48.785)
+          (xy 215.893 46.465)
         )
       )
     )
@@ -5788,7 +5788,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 3e10a62d-7820-4cef-9d1a-c276bae50d68)
-    (at 284.09 190.02 90)
+    (at 226.5875 67.175 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -5831,7 +5831,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp 3ef996e3-ec7d-4cb9-8dab-b9781e65c442)
-    (at 239.1 193.36 90)
+    (at 61.9125 47.625 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -5876,10 +5876,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 237.52 192.2)
-          (xy 237.52 194.56)
-          (xy 240.68 194.56)
-          (xy 240.68 192.2)
+          (xy 60.333 46.465)
+          (xy 60.333 48.785)
+          (xy 63.492 48.785)
+          (xy 63.492 46.465)
         )
       )
     )
@@ -5892,7 +5892,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp 3f8c2aab-2fdc-467a-ab46-20d9540853d4)
-    (at 262.74 197.33 90)
+    (at 233.3625 47.625 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -5937,10 +5937,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 261.16 196.17)
-          (xy 261.16 198.53)
-          (xy 264.32 198.53)
-          (xy 264.32 196.17)
+          (xy 231.782 46.465)
+          (xy 231.782 48.785)
+          (xy 234.943 48.785)
+          (xy 234.943 46.465)
         )
       )
     )
@@ -5953,7 +5953,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp 3f904a7d-2706-4c1b-8d27-912c7857a601)
-    (at 258.19 171.53 90)
+    (at 147.6375 66.675 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -5998,10 +5998,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 256.61 170.37)
-          (xy 256.61 172.73)
-          (xy 259.77 172.73)
-          (xy 259.77 170.37)
+          (xy 146.057 65.515)
+          (xy 146.057 67.835)
+          (xy 149.218 67.835)
+          (xy 149.218 65.515)
         )
       )
     )
@@ -6195,7 +6195,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 41ac052b-db3b-470e-a48b-8868a93f5646)
-    (at 286.6 211.77 90)
+    (at 240.875 86.225 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -6281,7 +6281,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 43303d16-9915-4602-8caa-9fe069cc62c3)
-    (at 271.54 211.77 90)
+    (at 98 29.075 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -6324,7 +6324,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp 45057ff0-9d34-4636-aeed-c984f4195bc5)
-    (at 319.77 144.07)
+    (at 157.1625 42.125)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/9b2f223e-777a-47cf-b364-c64ddc189014")
@@ -6358,7 +6358,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 456f9712-3cde-4d9b-adb5-673b22cb1b2f)
-    (at 289.11 220.47 90)
+    (at 250.4 29.075 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -6401,7 +6401,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp 45b11813-3c13-4838-a829-e1eb453eb6fd)
-    (at 341.97 144.07)
+    (at 204.7875 61.175)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/706e3c82-6113-4cde-ab50-bfcf482f37ed")
@@ -6435,7 +6435,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp 46b678d7-bfa5-487d-b007-7aab0d8528b9)
-    (at 247.23 249.93 90)
+    (at 219.075 9.525 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -6480,10 +6480,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 245.65 248.77)
-          (xy 245.65 251.13)
-          (xy 248.81 251.13)
-          (xy 248.81 248.77)
+          (xy 217.495 8.365)
+          (xy 217.495 10.685)
+          (xy 220.655 10.685)
+          (xy 220.655 8.365)
         )
       )
     )
@@ -6496,7 +6496,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp 4772b727-a91d-4266-9b85-7e5c37d2dfbc)
-    (at 253.64 184.43 90)
+    (at 130.9688 85.725 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -6541,10 +6541,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 252.06 183.27)
-          (xy 252.06 185.63)
-          (xy 255.22 185.63)
-          (xy 255.22 183.27)
+          (xy 129.389 84.565)
+          (xy 129.389 86.885)
+          (xy 132.549 86.885)
+          (xy 132.549 84.565)
         )
       )
     )
@@ -6557,7 +6557,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp 47bed104-b8d9-4efd-b944-b2ecd5e4a53b)
-    (at 258.19 242.48 90)
+    (at 47.625 9.525 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -6602,10 +6602,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 256.61 241.32)
-          (xy 256.61 243.68)
-          (xy 259.77 243.68)
-          (xy 259.77 241.32)
+          (xy 46.045 8.365)
+          (xy 46.045 10.685)
+          (xy 49.205 10.685)
+          (xy 49.205 8.365)
         )
       )
     )
@@ -6618,7 +6618,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 48b238c3-1d65-42cf-b63d-2ed73e3e78fb)
-    (at 276.56 207.42 90)
+    (at 59.9 29.075 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -6661,7 +6661,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 49241f13-44d7-49ed-b5af-6ca6fdc2c8d6)
-    (at 289.11 211.77 90)
+    (at 259.925 86.225 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -6704,7 +6704,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp 4ac86c16-63a5-4791-8922-17e9964d96cf)
-    (at 327.17 135.83)
+    (at 295.275 23.075)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/eb0467aa-3124-4a1d-845e-893705a26036")
@@ -6738,7 +6738,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp 4adb0d64-b958-4b17-978c-c17529ae4c17)
-    (at 262.74 177.98 90)
+    (at 200.025 9.525 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -6783,10 +6783,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 261.16 176.82)
-          (xy 261.16 179.18)
-          (xy 264.32 179.18)
-          (xy 264.32 176.82)
+          (xy 198.445 8.365)
+          (xy 198.445 10.685)
+          (xy 201.605 10.685)
+          (xy 201.605 8.365)
         )
       )
     )
@@ -6799,7 +6799,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp 4b6f546b-7074-48e4-926a-b0e846b19b48)
-    (at 327.17 123.47)
+    (at 295.275 61.175)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/9868b5cb-02c3-45a2-9a38-e11f27848417")
@@ -6833,7 +6833,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp 4c2c10ad-2486-41d6-9b81-79c94f3cca57)
-    (at 327.17 127.59)
+    (at 223.8375 61.175)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/c168385e-f2a2-4e66-9f2f-e07d8b5d68df")
@@ -6867,7 +6867,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp 4dd8f326-fb04-426b-9d1a-f277e910844f)
-    (at 356.77 152.31)
+    (at 128.5875 61.175)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/7b11ef01-aead-45ec-8504-c36cfe120555")
@@ -6986,7 +6986,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 52cb6857-2493-4706-8355-20a2ca695a6b)
-    (at 286.6 203.07 90)
+    (at 174.2 29.075 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -7029,7 +7029,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 540dd252-d42c-4abe-8a97-cd47c947eac9)
-    (at 286.6 190.02 90)
+    (at 133.7188 86.225 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -7072,7 +7072,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp 54b93bda-39f9-42e5-a1e4-0726a847fac6)
-    (at 356.77 156.43)
+    (at 119.0625 42.125)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/fc27f086-042c-4ebc-8aa3-d9e705f47256")
@@ -7106,7 +7106,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp 56750f13-0e97-4f81-95b4-1a2b447c7920)
-    (at 258.19 190.88 90)
+    (at 223.8375 66.675 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -7151,10 +7151,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 256.61 189.72)
-          (xy 256.61 192.08)
-          (xy 259.77 192.08)
-          (xy 259.77 189.72)
+          (xy 222.257 65.515)
+          (xy 222.257 67.835)
+          (xy 225.418 67.835)
+          (xy 225.418 65.515)
         )
       )
     )
@@ -7167,7 +7167,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp 567954bd-6203-450b-8790-c3b2c2a0f6aa)
-    (at 253.64 190.88 90)
+    (at 38.1 28.575 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -7212,10 +7212,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 252.06 189.72)
-          (xy 252.06 192.08)
-          (xy 255.22 192.08)
-          (xy 255.22 189.72)
+          (xy 36.52 27.415)
+          (xy 36.52 29.735)
+          (xy 39.68 29.735)
+          (xy 39.68 27.415)
         )
       )
     )
@@ -7228,7 +7228,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 59086ee5-3f0b-4059-a6e7-bcdd89b11dd6)
-    (at 286.6 220.47 90)
+    (at 145.625 10.025 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -7271,7 +7271,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp 597ec85b-7796-48f7-a308-d5e0b863c3fa)
-    (at 341.97 127.59)
+    (at 104.775 4.025)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/fc2587e3-f95f-462b-b5a7-8dfd7b654402")
@@ -7305,7 +7305,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 59ec0d60-1bf7-4a4d-a8b4-0f5ae55bc888)
-    (at 289.11 181.32 90)
+    (at 217.0625 48.125 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -7476,7 +7476,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp 628eafa2-6d83-4107-98dc-b26d7671f968)
-    (at 258.19 177.98 90)
+    (at 157.1625 47.625 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -7521,10 +7521,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 256.61 176.82)
-          (xy 256.61 179.18)
-          (xy 259.77 179.18)
-          (xy 259.77 176.82)
+          (xy 155.582 46.465)
+          (xy 155.582 48.785)
+          (xy 158.743 48.785)
+          (xy 158.743 46.465)
         )
       )
     )
@@ -7537,7 +7537,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 63505e20-4548-40b2-aa7a-c7dda6139bed)
-    (at 289.11 194.37 90)
+    (at 55.1375 67.175 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -7666,7 +7666,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp 67211854-98ef-42f8-8909-4e20160b827f)
-    (at 248.2 167.56 90)
+    (at 180.975 9.525 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -7711,10 +7711,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 246.62 166.4)
-          (xy 246.62 168.76)
-          (xy 249.78 168.76)
-          (xy 249.78 166.4)
+          (xy 179.395 8.365)
+          (xy 179.395 10.685)
+          (xy 182.555 10.685)
+          (xy 182.555 8.365)
         )
       )
     )
@@ -7727,7 +7727,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp 68f92a54-f14a-4338-bfb4-429506e9b675)
-    (at 258.19 248.93 90)
+    (at 21.4312 66.675 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -7772,10 +7772,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 256.61 247.77)
-          (xy 256.61 250.13)
-          (xy 259.77 250.13)
-          (xy 259.77 247.77)
+          (xy 19.851 65.515)
+          (xy 19.851 67.835)
+          (xy 23.011 67.835)
+          (xy 23.011 65.515)
         )
       )
     )
@@ -7830,7 +7830,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp 6a79b09f-aec2-4ff3-8d0e-67ea06157eb6)
-    (at 253.64 210.23 90)
+    (at 14.2875 28.575 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -7875,10 +7875,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 252.06 209.07)
-          (xy 252.06 211.43)
-          (xy 255.22 211.43)
-          (xy 255.22 209.07)
+          (xy 12.707 27.415)
+          (xy 12.707 29.735)
+          (xy 15.867 29.735)
+          (xy 15.867 27.415)
         )
       )
     )
@@ -7891,7 +7891,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp 6af062e1-0169-4405-9a0a-4a9da1581e6a)
-    (at 364.17 148.19)
+    (at 47.625 4.025)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/fe2dadbf-245d-4355-ada2-3ef5128ecdff")
@@ -7967,7 +7967,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp 6b8c400c-6bb5-44d8-8b37-383b4a7b46ee)
-    (at 319.77 131.71)
+    (at 176.2125 42.125)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/559a97b5-d3eb-4b37-9675-9aac74d8d4c1")
@@ -8044,7 +8044,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp 6e8c30bf-41e6-4b0c-812d-1aa63e1e0d83)
-    (at 312.37 144.07)
+    (at 219.075 80.225)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/5b9aad3d-f958-4bca-8dd8-ddd6f2ee5761")
@@ -8078,7 +8078,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp 6f7517c1-4d43-49a9-9c6f-fbb7875f4197)
-    (at 364.17 152.31)
+    (at 271.4625 23.075)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/55bb0b47-bcc4-4027-b4ed-391e428f9e0d")
@@ -8112,7 +8112,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 6f7fd6f7-3b0e-48b6-8179-d243faa3f199)
-    (at 274.05 220.47 90)
+    (at 74.1875 67.175 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -8155,7 +8155,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp 700fa350-f0e6-491d-9b23-c1cbb3fe07e0)
-    (at 258.19 236.03 90)
+    (at 295.275 66.675 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -8200,10 +8200,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 256.61 234.87)
-          (xy 256.61 237.23)
-          (xy 259.77 237.23)
-          (xy 259.77 234.87)
+          (xy 293.695 65.515)
+          (xy 293.695 67.835)
+          (xy 296.855 67.835)
+          (xy 296.855 65.515)
         )
       )
     )
@@ -8216,7 +8216,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp 70ef196b-c1c7-4aa0-ba4d-c73b0df808dc)
-    (at 334.57 148.19)
+    (at 109.5375 61.175)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/ceecf3c4-6d5b-4a9e-a032-35c674719d03")
@@ -8292,7 +8292,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp 71b2b3a7-39d1-4dbe-947d-6148859578c6)
-    (at 247.23 243.48 90)
+    (at 295.275 28.575 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -8337,10 +8337,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 245.65 242.32)
-          (xy 245.65 244.68)
-          (xy 248.81 244.68)
-          (xy 248.81 242.32)
+          (xy 293.695 27.415)
+          (xy 293.695 29.735)
+          (xy 296.855 29.735)
+          (xy 296.855 27.415)
         )
       )
     )
@@ -8353,7 +8353,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 71b6ff5c-c756-4b20-8a74-b3c02d8d7498)
-    (at 279.07 216.12 90)
+    (at 198.0125 48.125 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -8396,7 +8396,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp 71d0e52b-424a-41bc-b352-e507e825b0ed)
-    (at 319.77 135.83)
+    (at 114.3 23.075)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/3717e0b8-b33a-4527-a3f9-f5f7847492ac")
@@ -8430,7 +8430,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 7237d524-c126-484e-8e31-b5deae35dc4f)
-    (at 274.05 203.07 90)
+    (at 50.375 10.025 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -8515,7 +8515,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp 7337c9a7-7e3d-4eec-be03-edc9e2cc4b51)
-    (at 262.74 248.93 90)
+    (at 264.3188 47.625 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -8560,10 +8560,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 261.16 247.77)
-          (xy 261.16 250.13)
-          (xy 264.32 250.13)
-          (xy 264.32 247.77)
+          (xy 262.739 46.465)
+          (xy 262.739 48.785)
+          (xy 265.899 48.785)
+          (xy 265.899 46.465)
         )
       )
     )
@@ -8576,7 +8576,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 73473bdf-d0b1-49f4-bb9b-9feaded13bd7)
-    (at 286.6 198.72 90)
+    (at 83.7125 48.125 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -8619,7 +8619,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp 73994233-cfbb-46fc-bde1-f075cce81f1a)
-    (at 319.77 156.43)
+    (at 250.0312 61.175)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/bb80bbbd-b247-4527-8e0f-2149ebccba4f")
@@ -8778,7 +8778,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 746e43c3-c7e7-4697-abf0-46c97efdc327)
-    (at 281.58 220.47 90)
+    (at 62.2812 86.225 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -8821,7 +8821,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp 77068506-5e69-47f6-8c18-559ed07a8a9f)
-    (at 239.1 180.46 90)
+    (at 185.7375 66.675 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -8866,10 +8866,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 237.52 179.3)
-          (xy 237.52 181.66)
-          (xy 240.68 181.66)
-          (xy 240.68 179.3)
+          (xy 184.157 65.515)
+          (xy 184.157 67.835)
+          (xy 187.318 67.835)
+          (xy 187.318 65.515)
         )
       )
     )
@@ -8882,7 +8882,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 77335ad1-e3b9-49a8-8121-6f13968b4ce2)
-    (at 286.6 181.32 90)
+    (at 121.8125 48.125 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -8925,7 +8925,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp 77ca0f91-8afd-4baa-844d-19f473808597)
-    (at 304.97 144.07)
+    (at 21.4312 61.175)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/37ed5fd8-2ba6-4156-88e2-e11d0f4b4a8d")
@@ -8959,7 +8959,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 783a3ad9-08fc-453a-a4ed-ee81ef7506a6)
-    (at 281.58 190.02 90)
+    (at 274.2125 29.075 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -9002,7 +9002,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp 78551a2e-78da-44c0-a687-345c5e51b8f0)
-    (at 258.19 184.43 90)
+    (at 176.2125 47.625 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -9047,10 +9047,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 256.61 183.27)
-          (xy 256.61 185.63)
-          (xy 259.77 185.63)
-          (xy 259.77 183.27)
+          (xy 174.632 46.465)
+          (xy 174.632 48.785)
+          (xy 177.793 48.785)
+          (xy 177.793 46.465)
         )
       )
     )
@@ -9162,7 +9162,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 7a1c5f6b-5695-4374-ac02-cb7e9218b35c)
-    (at 289.11 185.67 90)
+    (at 107.525 10.025 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -9248,7 +9248,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 7c044845-a817-42b0-9df0-58d127f569bb)
-    (at 269.03 203.07 90)
+    (at 117.05 29.075 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -9291,7 +9291,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp 7d1f4e05-da18-428c-a049-ab8c7f6847d2)
-    (at 243.32 221.74 90)
+    (at 276.225 66.675 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -9336,10 +9336,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 241.74 220.58)
-          (xy 241.74 222.94)
-          (xy 244.9 222.94)
-          (xy 244.9 220.58)
+          (xy 274.645 65.515)
+          (xy 274.645 67.835)
+          (xy 277.805 67.835)
+          (xy 277.805 65.515)
         )
       )
     )
@@ -9352,7 +9352,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp 7d497abc-6edf-462f-9bf1-19933495352f)
-    (at 319.77 123.47)
+    (at 28.575 4.025)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/af4ccb63-b339-4ac2-a858-1006059abfe3")
@@ -9386,7 +9386,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp 7e924be4-11b2-4b5e-990b-c3c26bec35ea)
-    (at 319.77 148.19)
+    (at 52.3875 61.175)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/30b84f41-745a-4259-8d7c-f0b9f2aa952b")
@@ -9420,7 +9420,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp 7ef4a19e-e9ea-49be-ab5b-e238be0234be)
-    (at 341.97 139.95)
+    (at 266.7 4.025)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/cba6e489-4368-49d4-a1e2-b8721158666e")
@@ -9496,7 +9496,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp 7f179a59-20ee-467c-9f05-0d781138d7c6)
-    (at 262.74 229.58 90)
+    (at 295.275 9.525 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -9541,10 +9541,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 261.16 228.42)
-          (xy 261.16 230.78)
-          (xy 264.32 230.78)
-          (xy 264.32 228.42)
+          (xy 293.695 8.365)
+          (xy 293.695 10.685)
+          (xy 296.855 10.685)
+          (xy 296.855 8.365)
         )
       )
     )
@@ -9557,7 +9557,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 7f8042f9-b3a1-4763-afd8-da7b99eb3772)
-    (at 279.07 194.37 90)
+    (at 164.675 10.025 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -9600,7 +9600,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 7febcfba-4753-4211-b3b5-8f209ff2b657)
-    (at 286.6 194.37 90)
+    (at 221.825 86.225 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -9643,7 +9643,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp 80f953d2-7f61-4e96-9b4a-bc6d99da7fde)
-    (at 334.57 127.59)
+    (at 123.825 4.025)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/d4911072-a8e9-4903-abbf-68dcf4a757c7")
@@ -9795,7 +9795,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp 8270db27-9aa7-4c7f-8123-518685e02ffa)
-    (at 253.64 248.93 90)
+    (at 171.45 28.575 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -9840,10 +9840,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 252.06 247.77)
-          (xy 252.06 250.13)
-          (xy 255.22 250.13)
-          (xy 255.22 247.77)
+          (xy 169.87 27.415)
+          (xy 169.87 29.735)
+          (xy 173.03 29.735)
+          (xy 173.03 27.415)
         )
       )
     )
@@ -9856,7 +9856,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp 85372737-a2f3-4c07-ad68-b446f442a0c4)
-    (at 247.23 237.03 90)
+    (at 228.6 28.575 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -9901,10 +9901,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 245.65 235.87)
-          (xy 245.65 238.23)
-          (xy 248.81 238.23)
-          (xy 248.81 235.87)
+          (xy 227.02 27.415)
+          (xy 227.02 29.735)
+          (xy 230.18 29.735)
+          (xy 230.18 27.415)
         )
       )
     )
@@ -9917,7 +9917,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 853cc23e-4153-4c1b-9cbd-202d28eb7e72)
-    (at 271.54 207.42 90)
+    (at 31.325 10.025 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -9960,7 +9960,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp 869cb403-d8e6-45ae-8592-2c71160b9454)
-    (at 262.74 236.03 90)
+    (at 200.025 85.725 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -10005,10 +10005,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 261.16 234.87)
-          (xy 261.16 237.23)
-          (xy 264.32 237.23)
-          (xy 264.32 234.87)
+          (xy 198.445 84.565)
+          (xy 198.445 86.885)
+          (xy 201.605 86.885)
+          (xy 201.605 84.565)
         )
       )
     )
@@ -10064,7 +10064,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 8773d707-cece-4d73-a228-c2ac6022eb38)
-    (at 284.09 207.42 90)
+    (at 188.4875 67.175 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -10149,7 +10149,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp 8ccb4c76-41f4-476f-8a81-ee322b73f4c5)
-    (at 349.37 135.83)
+    (at 100.0125 42.125)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/3332baaa-0ffd-43a8-a2f0-fe57d6147876")
@@ -10183,7 +10183,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp 8d189e3c-bd8d-45a8-82ec-92d4185aa645)
-    (at 327.17 144.07)
+    (at 257.175 80.225)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/f2bda2d7-df42-4f04-9cb9-915217222714")
@@ -10260,7 +10260,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 8de6a7d8-a458-4aca-83a3-0d79058aed02)
-    (at 284.09 203.07 90)
+    (at 298.025 67.175 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -10345,7 +10345,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 8f79663a-d3a2-4aa1-a6d0-1c9dae323fad)
-    (at 286.6 207.42 90)
+    (at 183.725 10.025 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -10388,7 +10388,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 8fb70488-249f-4370-8223-91c0f17af22b)
-    (at 281.58 198.72 90)
+    (at 150.3875 67.175 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -10431,7 +10431,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp 915413e7-25cc-4a7b-9531-dd764fcee135)
-    (at 243.65 193.36 90)
+    (at 257.175 85.725 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -10476,10 +10476,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 242.07 192.2)
-          (xy 242.07 194.56)
-          (xy 245.23 194.56)
-          (xy 245.23 192.2)
+          (xy 255.595 84.565)
+          (xy 255.595 86.885)
+          (xy 258.755 86.885)
+          (xy 258.755 84.565)
         )
       )
     )
@@ -10492,7 +10492,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 91caf48d-9c6e-47d6-a2f4-d16ecb993abd)
-    (at 289.11 203.07 90)
+    (at 136.1 29.075 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -10577,7 +10577,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 92e24ce0-e128-42ed-accb-a5f1a46f838a)
-    (at 269.03 211.77 90)
+    (at 231.35 29.075 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -10620,7 +10620,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp 936540ca-e78c-4af3-ae9c-b810a613ee0e)
-    (at 243.65 180.46 90)
+    (at 166.6875 66.675 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -10665,10 +10665,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 242.07 179.3)
-          (xy 242.07 181.66)
-          (xy 245.23 181.66)
-          (xy 245.23 179.3)
+          (xy 165.107 65.515)
+          (xy 165.107 67.835)
+          (xy 168.268 67.835)
+          (xy 168.268 65.515)
         )
       )
     )
@@ -10681,7 +10681,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp 93ee7b39-d1ca-4cd5-b5fa-474993f19430)
-    (at 327.17 139.95)
+    (at 152.4 23.075)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/e4d7b99f-b838-47f4-b63a-1f61b21625a2")
@@ -10758,7 +10758,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 950a219d-60fd-4060-b401-4a23ea073ce1)
-    (at 279.07 203.07 90)
+    (at 221.825 10.025 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -10843,7 +10843,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 9689917a-a7a8-4904-b65b-cb2b490230e7)
-    (at 281.58 211.77 90)
+    (at 12.275 10.025 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -10886,7 +10886,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 978fd975-5334-4851-ab0e-17ed35c6ff32)
-    (at 271.54 216.12 90)
+    (at 78.95 29.075 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -10929,7 +10929,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp 981b55d5-0753-4e86-9d83-e78749534b3d)
-    (at 341.97 148.19)
+    (at 42.8625 42.125)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/817d8fdb-ef8f-460a-84b5-1759aeee3b07")
@@ -10963,7 +10963,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp 9873461e-1bca-4c26-8689-73bbec362373)
-    (at 349.37 156.43)
+    (at 238.125 4.025)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/82e85b3f-ec96-40c8-adce-bbf9dd4f14f3")
@@ -10997,7 +10997,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 98dfbdfa-669d-4bcc-9b6e-ba47870ce2ad)
-    (at 286.6 185.67 90)
+    (at 298.025 48.125 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -11040,7 +11040,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 996c8b77-d0e9-47b3-bc69-e62e7aa22e3e)
-    (at 276.56 203.07 90)
+    (at 298.025 10.025 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -11175,7 +11175,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 9cf4ce76-0340-48e4-aa7f-9a186d641e19)
-    (at 276.56 198.72 90)
+    (at 140.8625 48.125 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -11218,7 +11218,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp 9f19345d-66cb-4601-bac7-03a2b5193449)
-    (at 356.77 148.19)
+    (at 133.35 23.075)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/70d0d23d-21fb-45d9-93cc-e99c69d7bb76")
@@ -11252,7 +11252,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp a012bb80-fa8e-495e-8431-65990ddf0aee)
-    (at 341.97 156.43)
+    (at 161.925 4.025)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/6c90a198-6b4b-4739-a877-a096d50a6ff3")
@@ -11286,7 +11286,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp a06e2894-322e-4951-93c9-386d40b04b8f)
-    (at 239.1 174.01 90)
+    (at 42.8625 47.625 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -11331,10 +11331,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 237.52 172.85)
-          (xy 237.52 175.21)
-          (xy 240.68 175.21)
-          (xy 240.68 172.85)
+          (xy 41.282 46.465)
+          (xy 41.282 48.785)
+          (xy 44.442 48.785)
+          (xy 44.442 46.465)
         )
       )
     )
@@ -11480,7 +11480,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp a2c5c77a-ce8a-4ada-ae7a-3089f5e18dfa)
-    (at 271.54 198.72 90)
+    (at 126.575 10.025 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -11523,7 +11523,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp a316e6aa-5abb-4258-9da6-8a194ab08552)
-    (at 253.64 223.13 90)
+    (at 161.925 9.525 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -11568,10 +11568,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 252.06 221.97)
-          (xy 252.06 224.33)
-          (xy 255.22 224.33)
-          (xy 255.22 221.97)
+          (xy 160.345 8.365)
+          (xy 160.345 10.685)
+          (xy 163.505 10.685)
+          (xy 163.505 8.365)
         )
       )
     )
@@ -11584,7 +11584,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp a37ea250-0edd-4e02-a2b9-f8251c32c3b0)
-    (at 327.17 148.19)
+    (at 247.65 23.075)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/0eb1691f-e1a0-4e6b-b27f-0cd378fd0631")
@@ -11618,7 +11618,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp a580198e-4446-4633-afb2-5a478122d537)
-    (at 276.56 216.12 90)
+    (at 38.4688 86.225 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -11661,7 +11661,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp a59cc5de-076a-4fb6-9ea0-2dd440ff7517)
-    (at 248.2 180.46 90)
+    (at 295.275 47.625 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -11706,10 +11706,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 246.62 179.3)
-          (xy 246.62 181.66)
-          (xy 249.78 181.66)
-          (xy 249.78 179.3)
+          (xy 293.695 46.465)
+          (xy 293.695 48.785)
+          (xy 296.855 48.785)
+          (xy 296.855 46.465)
         )
       )
     )
@@ -11764,7 +11764,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp a6be7b8b-5301-4539-9fc8-421934019c91)
-    (at 312.37 148.19)
+    (at 35.7188 80.225)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/abd02928-840f-4ad8-9bf1-9fb33f002230")
@@ -11841,7 +11841,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp a745f4dc-7d5f-49d6-b434-a75d11e8b0dd)
-    (at 319.77 127.59)
+    (at 71.4375 61.175)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/3cb5abaa-4697-4399-8c0f-26e4437abf22")
@@ -11875,7 +11875,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp a7643931-b93f-4d60-b83a-91b40bd72920)
-    (at 289.11 198.72 90)
+    (at 24.1812 67.175 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -11918,7 +11918,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp a809016d-f441-4040-a3e4-f7ca16ae2b3c)
-    (at 304.97 135.83)
+    (at 130.9688 80.225)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/6a99825f-b08d-4cf8-91c4-7ad2df56edc7")
@@ -11952,7 +11952,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp a8345224-7e60-4d93-b7e6-e365d7ed13ca)
-    (at 312.37 127.59)
+    (at 185.7375 61.175)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/4d1cc22f-3d37-4185-b883-a65c3b0dd332")
@@ -11986,7 +11986,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp a878a65d-773f-4607-bbfc-f4344cbe2c63)
-    (at 279.07 220.47 90)
+    (at 93.2375 67.175 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -12029,7 +12029,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp a95a613b-bc2c-4309-b6cb-2cdd0a3fda3b)
-    (at 243.65 186.91 90)
+    (at 71.4375 66.675 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -12074,10 +12074,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 242.07 185.75)
-          (xy 242.07 188.11)
-          (xy 245.23 188.11)
-          (xy 245.23 185.75)
+          (xy 69.858 65.515)
+          (xy 69.858 67.835)
+          (xy 73.017 67.835)
+          (xy 73.017 65.515)
         )
       )
     )
@@ -12132,7 +12132,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp aaa15bf0-1ca6-424f-a5ab-8d901820fb86)
-    (at 276.56 220.47 90)
+    (at 269.45 10.025 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -12175,7 +12175,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp ab1fe289-346d-4ee7-84cc-1eb030bab9bd)
-    (at 334.57 135.83)
+    (at 57.15 23.075)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/4a47dc4c-a542-431e-9a90-0d5abf99b0b1")
@@ -12242,7 +12242,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp abc4fe44-4040-4a31-8b9e-760af85e0980)
-    (at 341.97 131.71)
+    (at 238.125 80.225)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/3b8d2075-9314-4004-9f10-53de83baa80e")
@@ -12276,7 +12276,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp ae6193f3-d16a-4d15-b78a-faf475ba9a26)
-    (at 312.37 123.47)
+    (at 16.6687 42.125)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/8cb69221-14ad-453b-826a-800b88e0ce0e")
@@ -12337,7 +12337,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp aed3f367-ed2e-4ee0-a9c1-a1d33fea10e8)
-    (at 312.37 131.71)
+    (at 295.275 4.025)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/59e84015-472e-4d3e-96b4-f680452df293")
@@ -12413,7 +12413,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp af3f7aa5-e721-4fdc-a589-97fb42b1f6ee)
-    (at 284.09 216.12 90)
+    (at 278.975 67.175 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -12456,7 +12456,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp af97dac1-481a-4301-8c12-64317ad65001)
-    (at 334.57 139.95)
+    (at 138.1125 42.125)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/b9f10ed1-300c-46b6-8b93-c73a6207d236")
@@ -12490,7 +12490,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp b149118b-7e60-4bf1-ad56-536a4217e225)
-    (at 284.09 198.72 90)
+    (at 102.7625 48.125 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -12575,7 +12575,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp b3159a0a-8e84-4627-a947-d32692a299ec)
-    (at 258.19 203.78 90)
+    (at 266.7 9.525 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -12620,10 +12620,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 256.61 202.62)
-          (xy 256.61 204.98)
-          (xy 259.77 204.98)
-          (xy 259.77 202.62)
+          (xy 265.12 8.365)
+          (xy 265.12 10.685)
+          (xy 268.28 10.685)
+          (xy 268.28 8.365)
         )
       )
     )
@@ -12636,7 +12636,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp b57d2ad2-879c-4417-bb2d-e54271dcd2a1)
-    (at 334.57 131.71)
+    (at 90.4875 61.175)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/8710d385-128c-4673-9c2c-236c7743a5a8")
@@ -12670,7 +12670,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp b6ad68f6-af67-478e-a4df-7be2a20fad8e)
-    (at 274.05 216.12 90)
+    (at 40.85 29.075 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -12805,7 +12805,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp b9cca626-7245-4480-a9b4-98fe421cf0c1)
-    (at 327.17 131.71)
+    (at 11.9062 80.225)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/cfd06bd5-7be5-4a2b-9f11-6f0d34556747")
@@ -13049,7 +13049,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp be0f2b35-d70a-425b-9b84-c9137bdde778)
-    (at 247.87 221.74 90)
+    (at 238.125 85.725 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -13094,10 +13094,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 246.29 220.58)
-          (xy 246.29 222.94)
-          (xy 249.45 222.94)
-          (xy 249.45 220.58)
+          (xy 236.545 84.565)
+          (xy 236.545 86.885)
+          (xy 239.705 86.885)
+          (xy 239.705 84.565)
         )
       )
     )
@@ -13152,7 +13152,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp c05fd46a-e75b-4a93-84d7-3347de02891f)
-    (at 262.74 210.23 90)
+    (at 100.0125 47.625 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -13197,10 +13197,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 261.16 209.07)
-          (xy 261.16 211.43)
-          (xy 264.32 211.43)
-          (xy 264.32 209.07)
+          (xy 98.433 46.465)
+          (xy 98.433 48.785)
+          (xy 101.593 48.785)
+          (xy 101.593 46.465)
         )
       )
     )
@@ -13213,7 +13213,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp c2a23d23-4dee-4224-940c-32a30dafba48)
-    (at 312.37 135.83)
+    (at 264.3188 42.125)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/1525744a-35c6-4ceb-939b-bf0b7acff9eb")
@@ -13332,7 +13332,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp c662b1d0-bf97-4c9f-9147-0faecb601ca2)
-    (at 334.57 144.07)
+    (at 200.025 4.025)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/914eb7f6-4743-498c-b399-2d69aa57f9bc")
@@ -13409,7 +13409,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp ca35c147-ab24-44e7-9c34-89c7bf5a086d)
-    (at 262.74 171.53 90)
+    (at 250.0312 66.675 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -13454,10 +13454,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 261.16 170.37)
-          (xy 261.16 172.73)
-          (xy 264.32 172.73)
-          (xy 264.32 170.37)
+          (xy 248.451 65.515)
+          (xy 248.451 67.835)
+          (xy 251.611 67.835)
+          (xy 251.611 65.515)
         )
       )
     )
@@ -13513,7 +13513,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp cf11df2f-d54e-43bb-aae6-bcc998f1ace1)
-    (at 242.68 243.48 90)
+    (at 204.7875 66.675 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -13558,10 +13558,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 241.1 242.32)
-          (xy 241.1 244.68)
-          (xy 244.26 244.68)
-          (xy 244.26 242.32)
+          (xy 203.207 65.515)
+          (xy 203.207 67.835)
+          (xy 206.368 67.835)
+          (xy 206.368 65.515)
         )
       )
     )
@@ -13574,7 +13574,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp cfa038c0-a49f-45bf-b6e3-72692695ea2c)
-    (at 248.2 186.91 90)
+    (at 219.075 85.725 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -13619,10 +13619,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 246.62 185.75)
-          (xy 246.62 188.11)
-          (xy 249.78 188.11)
-          (xy 249.78 185.75)
+          (xy 217.495 84.565)
+          (xy 217.495 86.885)
+          (xy 220.655 86.885)
+          (xy 220.655 84.565)
         )
       )
     )
@@ -13635,7 +13635,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp d05178fe-de67-4f92-b7c4-55f98cf3bb4f)
-    (at 319.77 152.31)
+    (at 80.9625 42.125)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/dd6a3617-e6d0-4ad0-b01e-f89d6f952cba")
@@ -13808,7 +13808,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp d2f1fac6-4b3d-4322-b9e2-ffeebef11f09)
-    (at 286.6 216.12 90)
+    (at 252.7812 67.175 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -13884,7 +13884,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp d4126c13-0171-4a4b-a5fa-5aad18da8059)
-    (at 312.37 139.95)
+    (at 38.1 23.075)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/fee14620-2445-4560-8b79-89ef428bdc6e")
@@ -13918,7 +13918,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp d4fdcabb-8403-44cb-ad7f-b2ff0af010ac)
-    (at 248.2 199.81 90)
+    (at 128.5875 66.675 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -13963,10 +13963,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 246.62 198.65)
-          (xy 246.62 201.01)
-          (xy 249.78 201.01)
-          (xy 249.78 198.65)
+          (xy 127.008 65.515)
+          (xy 127.008 67.835)
+          (xy 130.168 67.835)
+          (xy 130.168 65.515)
         )
       )
     )
@@ -13979,7 +13979,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp d60d34a8-9574-4625-b581-7acfaa0ec004)
-    (at 276.56 194.37 90)
+    (at 193.25 29.075 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -14022,7 +14022,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp d90991eb-57af-42d1-ba26-723217f309e9)
-    (at 334.57 152.31)
+    (at 219.075 4.025)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/5828f38c-91ff-440d-a746-a1450e626d46")
@@ -14056,7 +14056,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp da3d89a2-269b-4b62-be98-526e1107ea0b)
-    (at 304.97 152.31)
+    (at 228.6 23.075)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/7b2eeb11-7a36-4087-86f3-561bf4616d60")
@@ -14132,7 +14132,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp db6ff818-2773-4d38-88fc-acd9acb0468a)
-    (at 284.09 211.77 90)
+    (at 202.775 10.025 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -14175,7 +14175,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp dbd1ea47-d5d5-4683-a876-5af48b8e32c4)
-    (at 327.17 152.31)
+    (at 85.725 4.025)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/41ee7e62-dbcc-4ba9-9fd6-17bd337644ea")
@@ -14209,7 +14209,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp dbf2748f-61dc-487f-a93d-bd57c19d19b7)
-    (at 258.19 223.13 90)
+    (at 9.525 9.525 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -14254,10 +14254,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 256.61 221.97)
-          (xy 256.61 224.33)
-          (xy 259.77 224.33)
-          (xy 259.77 221.97)
+          (xy 7.945 8.365)
+          (xy 7.945 10.685)
+          (xy 11.105 10.685)
+          (xy 11.105 8.365)
         )
       )
     )
@@ -14312,7 +14312,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp dc47d78f-ffc4-46f5-97a5-4b9135225541)
-    (at 327.17 156.43)
+    (at 295.275 42.125)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/532250bd-376b-4de6-88fc-c37843747b52")
@@ -14346,7 +14346,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp def305ba-8127-4e50-b53a-35e990b2f4fe)
-    (at 304.97 127.59)
+    (at 166.6875 61.175)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/037d7019-bced-4a23-9a50-e1383985e420")
@@ -14380,7 +14380,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp e016c701-37f5-45f5-acfa-3b47124f7175)
-    (at 248.2 174.01 90)
+    (at 238.125 9.525 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -14425,10 +14425,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 246.62 172.85)
-          (xy 246.62 175.21)
-          (xy 249.78 175.21)
-          (xy 249.78 172.85)
+          (xy 236.545 8.365)
+          (xy 236.545 10.685)
+          (xy 239.705 10.685)
+          (xy 239.705 8.365)
         )
       )
     )
@@ -14484,7 +14484,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp e3340163-6646-4060-a0ac-4b940bfe1a72)
-    (at 289.11 190.02 90)
+    (at 202.775 86.225 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -14560,7 +14560,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp e586f24c-b0c2-4143-b1dd-0100dfe100fc)
-    (at 281.58 194.37 90)
+    (at 278.975 86.225 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -14603,7 +14603,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp e6bd474d-c274-4be4-826d-671799efd8e2)
-    (at 262.74 242.48 90)
+    (at 11.9062 85.725 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -14648,10 +14648,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 261.16 241.32)
-          (xy 261.16 243.68)
-          (xy 264.32 243.68)
-          (xy 264.32 241.32)
+          (xy 10.326 84.565)
+          (xy 10.326 86.885)
+          (xy 13.486 86.885)
+          (xy 13.486 84.565)
         )
       )
     )
@@ -14664,7 +14664,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp e78f49eb-7e08-4d6d-a989-0ce0cc4f33a7)
-    (at 247.87 215.29 90)
+    (at 66.675 9.525 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -14709,10 +14709,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 246.29 214.13)
-          (xy 246.29 216.49)
-          (xy 249.45 216.49)
-          (xy 249.45 214.13)
+          (xy 65.095 8.365)
+          (xy 65.095 10.685)
+          (xy 68.255 10.685)
+          (xy 68.255 8.365)
         )
       )
     )
@@ -14767,7 +14767,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp e882ca07-30aa-4841-a4ff-f30a5ed3b803)
-    (at 269.03 220.47 90)
+    (at 212.3 29.075 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -14810,7 +14810,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp e8af08ce-19fd-4eca-b38f-e698479506d6)
-    (at 276.56 211.77 90)
+    (at 298.025 86.225 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -14853,7 +14853,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp e993ebe4-c3cb-46e8-adae-05a3d5cf2d6c)
-    (at 239.1 186.91 90)
+    (at 119.0625 47.625 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -14898,10 +14898,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 237.52 185.75)
-          (xy 237.52 188.11)
-          (xy 240.68 188.11)
-          (xy 240.68 185.75)
+          (xy 117.483 46.465)
+          (xy 117.483 48.785)
+          (xy 120.642 48.785)
+          (xy 120.642 46.465)
         )
       )
     )
@@ -14914,7 +14914,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp ea297cae-0946-4831-b3ff-b05203066ddf)
-    (at 243.65 174.01 90)
+    (at 195.2625 47.625 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -14959,10 +14959,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 242.07 172.85)
-          (xy 242.07 175.21)
-          (xy 245.23 175.21)
-          (xy 245.23 172.85)
+          (xy 193.682 46.465)
+          (xy 193.682 48.785)
+          (xy 196.843 48.785)
+          (xy 196.843 46.465)
         )
       )
     )
@@ -15164,7 +15164,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp eb743193-5a5b-4bc7-997d-374323257c21)
-    (at 274.05 207.42 90)
+    (at 14.6562 86.225 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -15207,7 +15207,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp eb9f39a9-efb3-46f1-bcc7-bf4b6ceb3fe9)
-    (at 269.03 216.12 90)
+    (at 69.425 10.025 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -15250,7 +15250,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp ec714019-63df-49da-9faa-fe52367b0fb0)
-    (at 349.37 139.95)
+    (at 171.45 23.075)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/7ea4551b-4e0e-4b23-878d-4c0edb38a6fe")
@@ -15284,7 +15284,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp ed7de839-e129-414f-8e14-71fdbe125c91)
-    (at 356.77 139.95)
+    (at 14.2875 23.075)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/60bb400f-b71b-46e0-9024-c549ededef65")
@@ -15318,7 +15318,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp ef01390f-1570-4cc4-8765-ac99a0a4ddaf)
-    (at 258.19 197.33 90)
+    (at 59.5312 85.725 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -15363,10 +15363,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 256.61 196.17)
-          (xy 256.61 198.53)
-          (xy 259.77 198.53)
-          (xy 259.77 196.17)
+          (xy 57.951 84.565)
+          (xy 57.951 86.885)
+          (xy 61.111 86.885)
+          (xy 61.111 84.565)
         )
       )
     )
@@ -15379,7 +15379,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp f02b6af4-c60e-44b3-8aac-531232a85023)
-    (at 284.09 194.37 90)
+    (at 240.875 10.025 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -15422,7 +15422,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp f06b1ae3-79d0-4cf0-baa9-832f1c48ea8e)
-    (at 304.97 156.43)
+    (at 147.6375 61.175)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/c87431a3-e237-4147-8712-b9acdd4382d5")
@@ -15456,7 +15456,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp f0dba338-3387-46f5-bc80-58724756eb8d)
-    (at 289.11 207.42 90)
+    (at 267.0688 48.125 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -15499,7 +15499,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp f104fbb6-3906-4af3-bb85-70d38e07500a)
-    (at 253.64 229.58 90)
+    (at 123.825 9.525 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -15544,10 +15544,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 252.06 228.42)
-          (xy 252.06 230.78)
-          (xy 255.22 230.78)
-          (xy 255.22 228.42)
+          (xy 122.245 8.365)
+          (xy 122.245 10.685)
+          (xy 125.405 10.685)
+          (xy 125.405 8.365)
         )
       )
     )
@@ -15662,7 +15662,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp f42b451b-73e6-4bc0-8f1a-99efa851cf6f)
-    (at 349.37 144.07)
+    (at 9.525 4.025)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/e1f51369-f4ec-48e8-b20b-32204b8fff18")
@@ -15696,7 +15696,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp f50e518f-c8b9-4948-933b-43cea39c4eb8)
-    (at 304.97 148.19)
+    (at 142.875 4.025)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/13504be5-242d-4a04-a71d-9022b10d81e4")
@@ -15730,7 +15730,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp f6181b4a-72b0-4242-b99a-7ccab2dc0493)
-    (at 356.77 144.07)
+    (at 180.975 4.025)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/fcb675c1-41ef-443d-9ed8-c2db12652475")
@@ -15764,7 +15764,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp f6d42436-bd32-4878-ac4a-e398e590873d)
-    (at 284.09 220.47 90)
+    (at 236.1125 48.125 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Part Number" "C0603C104M4RAC7411")
@@ -15849,7 +15849,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp fad7b237-6291-40b9-923b-726d2d08fb8c)
-    (at 253.64 216.68 90)
+    (at 276.225 85.725 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -15894,10 +15894,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 252.06 215.52)
-          (xy 252.06 217.88)
-          (xy 255.22 217.88)
-          (xy 255.22 215.52)
+          (xy 274.645 84.565)
+          (xy 274.645 86.885)
+          (xy 277.805 86.885)
+          (xy 277.805 84.565)
         )
       )
     )
@@ -15910,7 +15910,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp fb1764fe-e4a1-44f2-bdc9-6be5f5905910)
-    (at 243.65 167.56 90)
+    (at 52.3875 66.675 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -15955,10 +15955,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 242.07 166.4)
-          (xy 242.07 168.76)
-          (xy 245.23 168.76)
-          (xy 245.23 166.4)
+          (xy 50.808 65.515)
+          (xy 50.808 67.835)
+          (xy 53.968 67.835)
+          (xy 53.968 65.515)
         )
       )
     )
@@ -15971,7 +15971,7 @@
 
   (footprint "random_parts:SOT-23_Handsoldering_no_plane" (layer "B.Cu")
     (tedit 6473B5E3) (tstamp fdeec5cc-915d-486f-9c7a-f34debfa9c9d)
-    (at 248.2 193.36 90)
+    (at 152.4 28.575 90)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "keys.kicad_sch")
@@ -16016,10 +16016,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 246.62 192.2)
-          (xy 246.62 194.56)
-          (xy 249.78 194.56)
-          (xy 249.78 192.2)
+          (xy 150.82 27.415)
+          (xy 150.82 29.735)
+          (xy 153.98 29.735)
+          (xy 153.98 27.415)
         )
       )
     )
@@ -16032,7 +16032,7 @@
 
   (footprint "random-keyboard-parts:QBLP677R-RGB-square_cutout" (layer "B.Cu")
     (tedit 637993F1) (tstamp fe67d712-2180-4f01-9591-4252c486bb04)
-    (at 349.37 152.31)
+    (at 276.225 61.175)
     (property "Sheetfile" "led_matrix.kicad_sch")
     (property "Sheetname" "LED Matrix")
     (path "/bb274ce3-82f4-490b-ab92-9195f89e200d/182fac5e-467a-4ebd-aa3e-7aa3377e0d0c")
