@@ -156,7 +156,12 @@ with open(app_filename, "w") as app_file:
         
         lines[key_line_dict[key]] = "    (at %.4f %.4f)\n" % (position[0], position[1])
         hall_key = key.replace("SW", "U")
-        lines[hall_line_dict[hall_key]] = "    (at %.4f %.4f 90)\n" % (position[0], position[1])
+        lines[hall_line_dict[hall_key]] = "    (at %.4f %.4f)\n" % (position[0], position[1])
+        # Write the no fill area
+        lines[hall_line_dict[hall_key]+45] = "          (xy %.3f %.3f)\n" % (position[0]+1.16, position[1]+1.58)
+        lines[hall_line_dict[hall_key]+46] = "          (xy %.3f %.3f)\n" % (position[0]-1.16, position[1]+1.58)
+        lines[hall_line_dict[hall_key]+47] = "          (xy %.3f %.3f)\n" % (position[0]-1.16, position[1]-1.58)
+        lines[hall_line_dict[hall_key]+48] = "          (xy %.3f %.3f)\n" % (position[0]+1.16, position[1]-1.58)
 
         if(key != "K_14"):
             led_key = key.replace("SW", "S")
