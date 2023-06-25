@@ -174,6 +174,7 @@ with open(app_filename) as app_file:
     print(key_line_dict)
     print(led_line_dict)
     print(hall_line_dict)
+    print(cap_line_dict)
 
 # Apply changes
 with open(app_filename, "w") as app_file:
