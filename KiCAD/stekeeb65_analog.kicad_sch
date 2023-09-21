@@ -1691,7 +1691,7 @@
       (reference "SW55") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/bfbb8447-71f9-49ca-bee6-4009003c8324"
-      (reference "SW56") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
+      (reference "SW56") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker-1.75U")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/d70e67b9-5ebb-4274-9401-7e37515064bb"
       (reference "SW57") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")

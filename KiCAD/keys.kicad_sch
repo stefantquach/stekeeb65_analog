@@ -7606,7 +7606,7 @@
     (property "Value" "MX_Lekker" (id 1) (at 332.74 158.7499 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MX_Only:MX_Lekker" (id 2) (at 326.39 157.48 0)
+    (property "Footprint" "MX_Only:MX_Lekker-1.75U" (id 2) (at 326.39 157.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 326.39 157.48 0)
