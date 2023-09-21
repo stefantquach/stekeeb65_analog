@@ -1,0 +1,5 @@
+Potential Hall sensors:
+AH49E ($1.02/p): current value. Bad output range when at 3.3V (2.3V-1V)
+DRV5056A3QDBZT ($1.91/p): Unipolar part. Need to make sure the poles work out. Better output range (0.6V - 3.1V)
+DRV5053OAQDBZR ($1.02/p): Bipolar. slightly better output voltage range (fixed to 0.2V - 1.8V)
+**DRV5055Z3QDBZT ($1.04/p): Bipolar. better output range (0.2-3.1V)

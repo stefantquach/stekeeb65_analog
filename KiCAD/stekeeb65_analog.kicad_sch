@@ -1565,13 +1565,13 @@
       (reference "SW13") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/a8d4527d-833a-422c-98bd-2eb3aafd6999"
-      (reference "SW14") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
+      (reference "SW14") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker-2U")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/805784ae-c50f-4cac-b1fa-75e137014e07"
       (reference "SW15") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/9970f2ca-b0b4-4bf6-8340-828c256e2b66"
-      (reference "SW16") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
+      (reference "SW16") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker-1.5U")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/bb75bfc1-69c5-414c-9466-10eae31cd00b"
       (reference "SW17") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
@@ -1610,13 +1610,13 @@
       (reference "SW28") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/2279bd6e-2f7b-4f3f-aa29-12220b246bb1"
-      (reference "SW29") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
+      (reference "SW29") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker-1.5U")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/2a0ce06f-426f-4540-8dbf-9166e94d2079"
       (reference "SW30") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/4f753553-94cd-422b-bbf4-8e1efa4f6d83"
-      (reference "SW31") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
+      (reference "SW31") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker-1.75U")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/a8cbfd74-0fc8-45be-8d50-5083048f9409"
       (reference "SW32") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
@@ -1652,13 +1652,13 @@
       (reference "SW42") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/df8ef60e-801d-4dbb-aee8-a7d4f0778df2"
-      (reference "SW43") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
+      (reference "SW43") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker-2.25U")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/b8b7d629-7009-4272-9b9d-6aaa841fc15e"
       (reference "SW44") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/9c4b40bf-ce75-4f79-a0c6-6744b23f9c01"
-      (reference "SW45") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
+      (reference "SW45") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker-2.25U")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/b4b9f8db-c21c-4019-ab3a-fd2fcafdf0b2"
       (reference "SW46") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
@@ -1700,16 +1700,16 @@
       (reference "SW58") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/0e9ee8ba-9aa8-40ab-a464-c92e36b5e31e"
-      (reference "SW59") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
+      (reference "SW59") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker-1.25U")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/d3ba55f9-7d57-4d67-9568-68a5f572d15c"
-      (reference "SW60") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
+      (reference "SW60") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker-1.25U")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/89225af5-eb79-4696-9ee0-5406b51b89c5"
-      (reference "SW61") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
+      (reference "SW61") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker-1.25U")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/eec19773-90ac-4916-ab11-905187450402"
-      (reference "SW62") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
+      (reference "SW62") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker-6.25U-ReversedStabilizers")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/be881878-ca74-4ffd-a98c-9fb5bff042d9"
       (reference "SW63") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
