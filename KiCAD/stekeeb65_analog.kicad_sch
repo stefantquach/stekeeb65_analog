@@ -1730,7 +1730,7 @@
       (reference "SW68") (unit 1) (value "MX_Lekker") (footprint "MX_Only:MX_Lekker")
     )
     (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/ed5923fd-518c-49af-9ef8-0a9dd7a37b5d"
-      (reference "SW69") (unit 1) (value "RotaryEncoder_Switch") (footprint "")
+      (reference "SW69") (unit 1) (value "RotaryEncoder_Switch") (footprint "mini-general-tweaks:RotaryEncoder_Alps_EC11E-Switch-Vertical-EDIT")
     )
     (path "/edc1a6f8-b313-4a09-bc49-87244a79c408/207ccf87-598c-48c5-a883-71e8ec79b470"
       (reference "TP1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
