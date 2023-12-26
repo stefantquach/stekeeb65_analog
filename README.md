@@ -1,1 +1,2 @@
 # stekeeb65_analog
+-eac_launcher_settings SettingsDX12.json

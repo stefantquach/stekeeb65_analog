@@ -1,7 +1,7 @@
 (footprint "MX_Lekker" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 650BA02E)
-  (fp_text reference "REF**" (at 0 2.8 unlocked) (layer "F.SilkS")
+  (tedit 657D30B1)
+  (fp_text reference "REF**" (at 0 2.8 unlocked) (layer "F.SilkS") hide
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp f4f99e3d-7269-4f6a-a759-16ad2a258779)
   )
