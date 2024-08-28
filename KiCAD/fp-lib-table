@@ -12,4 +12,5 @@
   (lib (name "random-keyboard-parts")(type "KiCad")(uri "${KIPRJMOD}/libraries/random-keyboard-parts.pretty")(options "")(descr ""))
   (lib (name "mini-MX-Tweaks")(type "KiCad")(uri "${KIPRJMOD}/libraries/mini-MX-Tweaks.pretty")(options "")(descr ""))
   (lib (name "mini-general-tweaks")(type "KiCad")(uri "${KIPRJMOD}/libraries/mini-general-tweaks.pretty")(options "")(descr ""))
+  (lib (name "logo")(type "KiCad")(uri "${KIPRJMOD}/libraries/logo.pretty")(options "")(descr ""))
 )

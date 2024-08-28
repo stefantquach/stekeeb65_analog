@@ -68,6 +68,7 @@
         "silk_over_copper|142750000|76600000|0f04f9b8-2446-49a4-8581-c1fb7d058da2|b1c52535-b2fa-4ec4-a215-8622f404c1fb",
         "silk_over_copper|142750000|81050000|b5b211d9-3d5b-4662-8aca-628967020a1e|88b4eb04-82de-4de3-b785-ca8e38f7872e",
         "silk_over_copper|142750000|86250000|a0485a65-44ee-493b-a0db-0819fbb3408d|7a7eca38-5333-48f3-ac92-f38abfd4056d",
+        "track_dangling|200725000|16925000|984ac6b8-86e3-40f6-9449-0c438ca091ed|00000000-0000-0000-0000-000000000000",
         "track_dangling|295525000|32725000|75b8347c-18d7-4805-bdc3-d86e0c4c56e5|00000000-0000-0000-0000-000000000000",
         "track_dangling|96650000|77950000|b2df2796-7078-4485-a906-d833512bd801|00000000-0000-0000-0000-000000000000",
         "track_dangling|97575000|84350000|b6f789da-05ee-4e4c-a2de-31b419f3e4ed|00000000-0000-0000-0000-000000000000"
@@ -441,7 +442,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "pdf_sch/",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
     "subpart_first_id": 65,

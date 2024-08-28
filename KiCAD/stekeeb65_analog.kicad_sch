@@ -1351,6 +1351,18 @@
     (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/cddeaf78-de96-414a-beb9-720f96c6ce62"
       (reference "R12") (unit 1) (value "DNI") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
+    (path "/68b035cd-5d75-440c-b46d-33e4c320630a/581d7dae-acbe-4a53-88bb-4fca71d911de"
+      (reference "R13") (unit 1) (value "0") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    )
+    (path "/68b035cd-5d75-440c-b46d-33e4c320630a/e5207290-41d1-4708-be96-2b2603b0ffee"
+      (reference "R14") (unit 1) (value "0") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    )
+    (path "/68b035cd-5d75-440c-b46d-33e4c320630a/ebb94e74-f6c1-4d36-9b46-67a2d283d7a4"
+      (reference "R15") (unit 1) (value "0") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    )
+    (path "/68b035cd-5d75-440c-b46d-33e4c320630a/0ef8f556-9a13-488a-8ff9-1cc94731a0b5"
+      (reference "R16") (unit 1) (value "0") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    )
     (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/6893db18-3287-4788-9f8c-5f5f066bd959"
       (reference "R17") (unit 1) (value "DNI") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
@@ -1805,208 +1817,208 @@
       (reference "TP6") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/bb4c3497-c2d9-4f04-b795-7c27e4c0791f"
-      (reference "U1") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U1") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/e5facaa0-d866-4456-b2a3-079320693376"
-      (reference "U2") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U2") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/aeae7f17-b2df-412b-8791-04f61ad63299"
-      (reference "U3") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U3") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/7e5438c6-d201-49de-849a-7517d5ad934f"
-      (reference "U4") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U4") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/94de7b35-ec35-42ca-8b1d-40ae4a0347fd"
-      (reference "U5") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U5") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/69ef32b0-2460-417c-b5fd-dd30edaeafaa"
-      (reference "U6") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U6") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/599d108d-1bf8-4582-8c47-23ee89a22047"
-      (reference "U7") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U7") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/691e043b-dc46-4859-89ae-4b395c4b3144"
-      (reference "U8") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U8") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/5d8e1c76-0f71-4fa7-a8d5-e643762e9a96"
-      (reference "U9") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U9") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/2ce94677-1091-47a1-8eea-996af386356b"
-      (reference "U10") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U10") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/fbe168f0-a46e-4c48-b42a-f13ffa760430"
-      (reference "U11") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U11") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/67463715-f3e1-42a3-ae89-b402e7df3fc6"
-      (reference "U12") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U12") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/2626cdca-687a-495a-bf44-f7aec100a823"
-      (reference "U13") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U13") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/ca17d3b7-13c7-4629-a573-46656555f983"
-      (reference "U14") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U14") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/59177c5f-1d4f-463a-aabe-62734771b90a"
-      (reference "U15") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U15") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/d0aed72a-96b3-49c7-a219-054ced632910"
-      (reference "U16") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U16") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/e895e60b-3b45-4088-a278-d2e157250a3a"
-      (reference "U17") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U17") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/3c51f2f2-d610-476d-8718-98b88f314b13"
-      (reference "U18") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U18") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/6717ffbe-d8c2-41f2-8415-7e24b02b3206"
-      (reference "U19") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U19") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/0c61ef8e-9e07-4c0e-82fe-78b491b0d63d"
-      (reference "U20") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U20") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/3525652d-7bf4-47b9-8949-7f964c3b30e5"
-      (reference "U21") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U21") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/40f031fe-d096-4c56-88eb-ca2cc9bca985"
-      (reference "U22") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U22") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/91ad32e4-aee6-47a4-b853-f0fbe108eb39"
-      (reference "U23") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U23") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/399c4027-fc1a-42c7-85c6-eb7c4123392b"
-      (reference "U24") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U24") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/b423bdce-5ec4-454c-965c-d8457af3241d"
-      (reference "U25") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U25") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/6401cc09-6130-45de-ba82-713dfcec9a81"
-      (reference "U26") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U26") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/fba10384-7d09-40eb-b826-1b154df655f6"
-      (reference "U27") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U27") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/6030dde0-3161-42f1-9e7f-2f4827904731"
-      (reference "U28") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U28") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/442ac0ca-4e5b-472d-8774-9a5606ddb7d6"
-      (reference "U29") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U29") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/dae662d4-807e-40b0-9ccf-743d5f01b90f"
-      (reference "U30") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U30") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/f1030939-018a-4b4f-8904-9b65ba6e1abb"
-      (reference "U31") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U31") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/913ef510-4895-4dfa-9d83-2623ad35411d"
-      (reference "U32") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U32") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/11df6251-9a5c-45c9-8459-f46959f7ebc9"
-      (reference "U33") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U33") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/cdb67b47-d2b0-46b8-adc4-d834c01b2e1a"
-      (reference "U34") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U34") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/5476feec-fc6f-43b6-8f0b-425bc84526c3"
-      (reference "U35") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U35") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/9cd51526-af34-44d4-ac5c-5fe08dc6b090"
-      (reference "U36") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U36") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/43874227-20c4-4c1c-9b48-af2deb2d57ae"
-      (reference "U37") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U37") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/885871aa-4588-4de5-bd2e-8009206d95fc"
-      (reference "U38") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U38") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/77c9e4ed-8408-44ed-b042-0faaf4709e23"
-      (reference "U39") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U39") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/a33cdbfc-8b00-4b60-b60c-1bd8e4de72f4"
-      (reference "U40") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U40") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/defb4276-6151-457a-aba4-d0c619f1a2b9"
-      (reference "U41") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U41") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/60d1e3d1-eb4c-466c-91b1-7a89f9c7d067"
-      (reference "U42") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U42") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/a62405b6-03ec-4114-b204-3b300e8d1c33"
-      (reference "U43") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U43") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/0a7e3451-fa5a-49a7-883a-d29541f36893"
-      (reference "U44") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U44") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/3985d52b-24a0-4636-a143-57edaf4bf383"
-      (reference "U45") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U45") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/3230ec13-8ebb-47e8-8b26-fbd6ac221bc7"
-      (reference "U46") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U46") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/98f7dafb-4415-4e81-91f6-663a718c3ebe"
-      (reference "U47") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U47") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/f7975374-760a-4d0e-95be-f76e55b6deda"
-      (reference "U48") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U48") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/c4bf59d0-b521-48d9-b0fd-7042e90571fa"
-      (reference "U49") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U49") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/327435bc-2d1d-4e47-b6c4-37ad1cf79dfe"
-      (reference "U50") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U50") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/be20d934-0caa-41ba-a77c-9f7d54d49204"
-      (reference "U51") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U51") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/2a426f32-9e3a-4938-ab48-a9cd5537d8b4"
-      (reference "U52") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U52") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/3347bd8f-5243-4a33-bb5a-e57d961ac09a"
-      (reference "U53") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U53") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/847a69cf-98e8-4552-8349-fb24d792ccc6"
-      (reference "U54") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U54") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/6ca89083-b55c-4df1-847e-9338667c3bb5"
-      (reference "U55") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U55") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/fbed2589-2f28-400f-9f6e-5ab42de4f611"
-      (reference "U56") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U56") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/7db68318-ec6a-444e-b5c7-0a19b1786a7f"
-      (reference "U57") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U57") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/b2817fb0-c9c6-42e1-9227-62262421c45d"
-      (reference "U58") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U58") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/ab058cb8-5800-409b-8955-764f0e831828"
-      (reference "U59") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U59") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/562c8600-5440-45da-b8a9-fa15fae3d9fe"
-      (reference "U60") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U60") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/cffacb1e-4954-446b-aee7-cc49e1d6f6c0"
-      (reference "U61") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U61") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/7f0402aa-6120-4ad1-981f-3865df270326"
-      (reference "U62") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U62") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/afa3b657-692b-49ac-af5e-22329ff0b570"
-      (reference "U63") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U63") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/96b52ea0-f15f-449d-8685-88e8a3399a55"
-      (reference "U64") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U64") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/dd3ad8a7-b00e-43f1-b78e-2a1681924d1f"
-      (reference "U65") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U65") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/05e213e3-9f8d-41b8-9561-5dbfbe701363"
-      (reference "U66") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U66") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/5eac95f9-74b9-474a-8f04-88d0d29933ea"
-      (reference "U67") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U67") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/3da740b1-ccff-4c4c-8377-782e13594773/62ff3cfb-01b1-4b0e-a172-49158ecd21b5"
-      (reference "U68") (unit 1) (value "AH49-E") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
+      (reference "U68") (unit 1) (value "DRV5055Z3QDBZT") (footprint "random_parts:SOT-23_Handsoldering_no_plane")
     )
     (path "/fdd735b9-c4c5-4f24-9e89-db66eff8d625/f35c1e6b-5c97-4986-959b-6bdf3555dfd6"
       (reference "U69") (unit 1) (value "W25Q32JVSS") (footprint "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm")
